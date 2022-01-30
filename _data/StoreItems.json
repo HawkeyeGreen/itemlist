@@ -15931,12 +15931,6 @@
       "price": 4725
     },
     {
-      "abr": "orassanmilitarypants",
-      "category": "Skin",
-      "defname": "Apparel_OrassanMilitaryPants",
-      "price": 592
-    },
-    {
       "abr": "orassanmilitaryuniform",
       "category": "Skin",
       "defname": "Apparel_OrassanMilitaryShirt",
@@ -22576,7 +22570,7 @@
       "abr": "adaptivedrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Adaptive_Drone",
-      "price": 1
+      "price": 180
     },
     {
       "abr": "adaptivehoney",
@@ -22594,7 +22588,7 @@
       "abr": "adaptivequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Adaptive_Queen",
-      "price": 1
+      "price": 180
     },
     {
       "abr": "adobebricks",
@@ -28591,6 +28585,60 @@
       "price": 1333
     },
     {
+      "abr": "brewofthedreams",
+      "category": "Drugs",
+      "defname": "WitcherTrials_Brew_Dreams",
+      "price": 16667
+    },
+    {
+      "abr": "brewoftheelders",
+      "category": "Drugs",
+      "defname": "WitcherTrials_Brew_Elders",
+      "price": 16667
+    },
+    {
+      "abr": "brewofthegrasses",
+      "category": "Drugs",
+      "defname": "WitcherTrials_Brew_Grasses",
+      "price": 16667
+    },
+    {
+      "abr": "orassanflightsuit",
+      "category": "Skin",
+      "defname": "Apparel_OrassanFlightSuit",
+      "price": 800
+    },
+    {
+      "abr": "witcher'smedallion",
+      "category": "Headgear",
+      "defname": "Apparel_WitcherMedallion",
+      "price": 16667
+    },
+    {
+      "abr": "witcher'smedallion",
+      "category": "Headgear",
+      "defname": "Apparel_WitcherMedallion_Active",
+      "price": 16667
+    },
+    {
+      "abr": "witcher'ssilversword",
+      "category": "Melee weapons",
+      "defname": "WitcherTrials_Melee_SilverSword",
+      "price": 16667
+    },
+    {
+      "abr": "witcher'ssteelsword",
+      "category": "Melee weapons",
+      "defname": "WitcherTrials_Melee_SteelSword",
+      "price": 16667
+    },
+    {
+      "abr": "witcher'strainingarmour",
+      "category": "Armored",
+      "defname": "Apparel_WitcherTrainingArmour",
+      "price": 322
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -28831,5 +28879,5 @@
       "price": 256
     }
   ],
-  "total": 4805
+  "total": 4813
 }
