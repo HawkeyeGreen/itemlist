@@ -26977,12 +26977,6 @@
       "price": 2083
     },
     {
-      "abr": "archotechmetamorphose",
-      "category": "Archotech",
-      "defname": "ArchotechMetamorphose",
-      "price": 83333
-    },
-    {
       "abr": "archotechnourisher",
       "category": "Special",
       "defname": "ArchoCookingAssistant",
@@ -28639,245 +28633,605 @@
       "price": 322
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
+      "abr": "decimation",
+      "category": "Melee",
+      "defname": "TM_Decimation",
+      "price": 6058
     },
     {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
+      "abr": "air-conindoorunit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": 82
     },
     {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
+      "abr": "air-conoutdoorunit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": 458
     },
     {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 667
+      "abr": "almonds",
+      "category": "Raw fruits",
+      "defname": "VCE_RawAlmonds",
+      "price": 2
     },
     {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
+      "abr": "avocados",
+      "category": "Raw fruits",
+      "defname": "VCE_RawAvocado",
+      "price": 2
     },
     {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": 52
     },
     {
-      "abr": "guestslabbed",
+      "abr": "bathmat",
       "category": "Furniture",
-      "defname": "SlabBedGuest",
+      "defname": "BathMat",
+      "price": 71
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": 124
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": 146
+    },
+    {
+      "abr": "blueberries",
+      "category": "Raw fruits",
+      "defname": "VCE_RawBlueberries",
+      "price": 2
+    },
+    {
+      "abr": "brusselssprouts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBrusselsSprouts",
+      "price": 2
+    },
+    {
+      "abr": "buckwheat",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBuckwheat",
+      "price": 2
+    },
+    {
+      "abr": "butternutsquashes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawButternutSquash",
+      "price": 2
+    },
+    {
+      "abr": "canolaflowers",
+      "category": "Plant matter",
+      "defname": "VCE_RawCanola",
+      "price": 3
+    },
+    {
+      "abr": "carrots",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCarrot",
+      "price": 2
+    },
+    {
+      "abr": "cassavas",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCassava",
+      "price": 2
+    },
+    {
+      "abr": "cavemoss",
+      "category": "Foods",
+      "defname": "VCE_RawMoss",
+      "price": 1
+    },
+    {
+      "abr": "ceilingfan1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": 184
+    },
+    {
+      "abr": "ceilingfan1x1(dark)",
+      "category": "Hygiene",
+      "defname": "CeilingFanSDarklight",
+      "price": 184
+    },
+    {
+      "abr": "ceilingfan2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": 184
+    },
+    {
+      "abr": "ceilingfan2x2(dark)",
+      "category": "Hygiene",
+      "defname": "CeilingFanDarklight",
+      "price": 184
+    },
+    {
+      "abr": "celery",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCelery",
+      "price": 2
+    },
+    {
+      "abr": "chickpeas",
+      "category": "Vegetarian",
+      "defname": "VCE_RawChickpeas",
+      "price": -10
+    },
+    {
+      "abr": "coconuts",
+      "category": "Raw fruits",
+      "defname": "VCE_RawCoconut",
+      "price": 2
+    },
+    {
+      "abr": "cucumbers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawCucumber",
+      "price": 2
+    },
+    {
+      "abr": "electricboiler",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": 425
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": 316
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": 725
+    },
+    {
+      "abr": "exoskeletonautomine",
+      "category": "Production",
+      "defname": "AntyExoskeleton_Production",
+      "price": 1958
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": 104
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": 52
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": 675
+    },
+    {
+      "abr": "garliccloves",
+      "category": "Vegetarian",
+      "defname": "VCE_RawGarlic",
+      "price": 2
+    },
+    {
+      "abr": "gasboiler",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": 425
+    },
+    {
+      "abr": "glasspane",
+      "category": "Manufactured",
+      "defname": "GlassPane",
+      "price": 22
+    },
+    {
+      "abr": "glorymaul",
+      "category": "Melee",
+      "defname": "TM_GloryMaul",
+      "price": 2825
+    },
+    {
+      "abr": "granitegolem",
+      "category": "Animal",
+      "defname": "TM_GraniteGolem",
+      "price": 2500
+    },
+    {
+      "abr": "greenbeans",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBeans",
+      "price": 2
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": 800
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": 245
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "irrigationsprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
       "price": 102
     },
     {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
+      "abr": "kitchensink",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": 167
     },
     {
-      "abr": "guestmedpodlux",
-      "category": "Furniture",
-      "defname": "MedPodLuxGuest",
-      "price": 125000
+      "abr": "largeradiator",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": 252
     },
     {
-      "abr": "guestmedpod",
-      "category": "Furniture",
-      "defname": "MedPodStandardGuest",
-      "price": 83333
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": 55
     },
     {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 450
+      "abr": "lettuce",
+      "category": "Vegetarian",
+      "defname": "VCE_RawLettuce",
+      "price": 2
     },
     {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
+      "abr": "limestonegolem",
+      "category": "Animal",
+      "defname": "TM_LimestoneGolem",
+      "price": 2500
     },
     {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": 52
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
+      "abr": "logboiler",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": 642
     },
     {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
+      "abr": "lotusseeds",
+      "category": "Vegetarian",
+      "defname": "VCE_RawLotus",
+      "price": 2
     },
     {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 508
+      "abr": "maharalgolem",
+      "category": "Animal",
+      "defname": "TM_MaharalGolem",
+      "price": 3000
     },
     {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 733
+      "abr": "mangoes",
+      "category": "Raw fruits",
+      "defname": "VCE_Mangoes",
+      "price": 2
     },
     {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": 833
+      "abr": "marblegolem",
+      "category": "Animal",
+      "defname": "TM_MarbleGolem",
+      "price": 2500
     },
     {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1483
+      "abr": "melons",
+      "category": "Raw fruits",
+      "defname": "VCE_RawMelon",
+      "price": 2
     },
     {
-      "abr": "guestancientbed",
-      "category": "Furniture",
-      "defname": "VFEA_AncientBedGuest",
-      "price": 147
+      "abr": "oats",
+      "category": "Vegetarian",
+      "defname": "VCE_RawOats",
+      "price": 2
     },
     {
-      "abr": "guestancientcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "VFEA_AncientCryptosleepSuspenderGuest",
-      "price": 733
+      "abr": "okra",
+      "category": "Vegetarian",
+      "defname": "VCE_RawOkra",
+      "price": 2
     },
     {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBedGuest",
-      "price": 171
+      "abr": "olives",
+      "category": "Vegetarian",
+      "defname": "VCE_RawOlives",
+      "price": 2
     },
     {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBedGuest",
-      "price": 350
+      "abr": "omniosmos",
+      "category": "Special",
+      "defname": "MAG_ArchotechWaterThing",
+      "price": 13225
     },
     {
-      "abr": "guestprefabbed",
-      "category": "Furniture",
-      "defname": "RE_PrefabBedGuest",
-      "price": 246
+      "abr": "peanuts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawPeanut",
+      "price": 2
     },
     {
-      "abr": "guestprefabdoublebed",
-      "category": "Furniture",
-      "defname": "RE_PrefabDoubleBedGuest",
-      "price": 450
+      "abr": "pineapples",
+      "category": "Raw fruits",
+      "defname": "VCE_RawPineapple",
+      "price": 7
     },
     {
-      "abr": "guestprefabmedicalbed",
-      "category": "Furniture",
-      "defname": "RE_PrefabMedicalBedGuest",
-      "price": 1008
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": 50
     },
     {
-      "abr": "guestandroidpod",
-      "category": "Furniture",
-      "defname": "ATPP_AndroidPodGuest",
-      "price": 282
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170
     },
     {
-      "abr": "guestm7pod",
-      "category": "Furniture",
-      "defname": "ATPP_AndroidPodMechGuest",
-      "price": 1483
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": 85
     },
     {
-      "abr": "guestandroidupgradestation",
-      "category": "Furniture",
-      "defname": "AndroidOperationBedGuest",
-      "price": 1142
+      "abr": "radishes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawRadish",
+      "price": 2
     },
     {
-      "abr": "guestantyhyperreconstructiondevice",
-      "category": "Furniture",
-      "defname": "AT_SuperregenerationdeviceGuest",
-      "price": 3675
+      "abr": "redbellpeppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawBellPeppers",
+      "price": 2
     },
     {
-      "abr": "guestmatingnest",
-      "category": "Furniture",
-      "defname": "MatingNestMantoGuest",
-      "price": 116
+      "abr": "refleumincubator",
+      "category": "Production",
+      "defname": "At_farm",
+      "price": 4433
     },
     {
-      "abr": "guestonibed",
-      "category": "Furniture",
-      "defname": "OniBedGuest",
-      "price": 157
+      "abr": "sandstonegolem",
+      "category": "Animal",
+      "defname": "TM_SandstoneGolem",
+      "price": 2500
     },
     {
-      "abr": "guestdoubleonibed",
+      "abr": "saunaseating",
       "category": "Furniture",
-      "defname": "OniBedDoubleGuest",
-      "price": 331
+      "defname": "DBHSaunaSeating",
+      "price": 9
     },
     {
-      "abr": "guestonishogunbed",
-      "category": "Furniture",
-      "defname": "OniShogunBedGuest",
-      "price": 1550
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90
     },
     {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "VME_AncientBedGuest",
-      "price": 5
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52
     },
     {
-      "abr": "guestminchocrepebedroll",
-      "category": "Furniture",
-      "defname": "Mincho_Crepe_BedrollGuest",
-      "price": 68
+      "abr": "slategolem",
+      "category": "Animal",
+      "defname": "TM_SlateGolem",
+      "price": 2500
     },
     {
-      "abr": "guestminchofullsizecakebed",
-      "category": "Furniture",
-      "defname": "Mincho_Full_Size_Cake_BedGuest",
-      "price": 1833
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182
     },
     {
-      "abr": "guestminchosinglesizecakebed",
-      "category": "Furniture",
-      "defname": "Mincho_Single_Size_Cake_BedGuest",
-      "price": 917
+      "abr": "stonegolem",
+      "category": "Animal",
+      "defname": "TM_StoneGolem",
+      "price": 2500
     },
     {
-      "abr": "guestmedievalcot",
-      "category": "Furniture",
-      "defname": "MedTimes_CotGuest",
-      "price": 138
+      "abr": "sunflowerseeds",
+      "category": "Vegetarian",
+      "defname": "VCE_RawSunflower",
+      "price": 2
     },
     {
-      "abr": "guestmedievaldoublecot",
-      "category": "Furniture",
-      "defname": "MedTimes_CotDoubleGuest",
-      "price": 256
+      "abr": "sweetpotatoes",
+      "category": "Vegetarian",
+      "defname": "VCE_RawSweetPotatoes",
+      "price": 2
+    },
+    {
+      "abr": "taroroots",
+      "category": "Vegetarian",
+      "defname": "VCE_RawTaro",
+      "price": 2
+    },
+    {
+      "abr": "techprint(ancientstechsi)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_I_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(ancientstechsii)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_II_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(ancientstechsiii)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_III_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(bunkertechs)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_AncientI_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(floorsi)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_FloorsI_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(floorsii)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_FloorsII_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(gaurler)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_GaurlerI_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(replicatori)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_ReplicatorI_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(replicatorii)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_ReplicatorII_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "techprint(resourceconversion)",
+      "category": "Techprints",
+      "defname": "Techprint_ValkyriesTechs_ResourceConversionI_WVC",
+      "price": 1333
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": 86
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": 85
+    },
+    {
+      "abr": "vegetablemilkextractor",
+      "category": "Production",
+      "defname": "VCE_VegMilkExtractor",
+      "price": 296
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": 153
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": 433
+    },
+    {
+      "abr": "waterchestnuts",
+      "category": "Vegetarian",
+      "defname": "VCE_RawWaterChestnut",
+      "price": 2
+    },
+    {
+      "abr": "waterslime",
+      "category": "Animals",
+      "defname": "ZSL_WaterSlime",
+      "price": 500
+    },
+    {
+      "abr": "waterslimeegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "ZSL_EggWaterSlimeFertilized",
+      "price": 38
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52
+    },
+    {
+      "abr": "watercressleaves",
+      "category": "Vegetarian",
+      "defname": "VCE_RawWatercress",
+      "price": 2
+    },
+    {
+      "abr": "yellowbellpeppers",
+      "category": "Vegetarian",
+      "defname": "VCE_RawYellowBellPeppers",
+      "price": 2
     }
   ],
-  "total": 4813
+  "total": 4872
 }
