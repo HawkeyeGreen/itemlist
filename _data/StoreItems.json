@@ -29231,7 +29231,613 @@
       "category": "Vegetarian",
       "defname": "VCE_RawYellowBellPeppers",
       "price": 2
+    },
+    {
+      "abr": "apothecaryrecipe:bliss",
+      "category": "Scrolls",
+      "defname": "SkillOf_HerbalBliss",
+      "price": 950
+    },
+    {
+      "abr": "apothecaryrecipe:clarity",
+      "category": "Scrolls",
+      "defname": "SkillOf_HerbalClarity",
+      "price": 1733
+    },
+    {
+      "abr": "darkcandle",
+      "category": "Furniture",
+      "defname": "VFEM_DarkCandle",
+      "price": 1
+    },
+    {
+      "abr": "darkilluminateddresser",
+      "category": "Furniture",
+      "defname": "Table_DarkIlluminatedDresser",
+      "price": 367
+    },
+    {
+      "abr": "darkilluminatedendtable",
+      "category": "Furniture",
+      "defname": "Table_DarkIlluminatedEndTable",
+      "price": 286
+    },
+    {
+      "abr": "darklampendtable",
+      "category": "Furniture",
+      "defname": "Table_DarkLightEndTable",
+      "price": 169
+    },
+    {
+      "abr": "empathability:fadeemotions",
+      "category": "Scrolls",
+      "defname": "SpellOf_FadeEmotions",
+      "price": 1267
+    },
+    {
+      "abr": "firespell:heatshield",
+      "category": "Scrolls",
+      "defname": "SpellOf_HeatShield",
+      "price": 1000
+    },
+    {
+      "abr": "icespell:alterstorm",
+      "category": "Scrolls",
+      "defname": "SpellOf_AlterStorm",
+      "price": 1417
+    },
+    {
+      "abr": "magespell:magicwardrobe",
+      "category": "Scrolls",
+      "defname": "SpellOf_MagicWardrobe",
+      "price": 2333
+    },
+    {
+      "abr": "moderndarklamp",
+      "category": "Furniture",
+      "defname": "Light_ModernDarkLamp",
+      "price": 129
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Furniture",
+      "defname": "Light_OutdoorDarkLamp",
+      "price": 128
+    },
+    {
+      "abr": "outdoorsolardarklamp",
+      "category": "Furniture",
+      "defname": "Spacer_OutdoorDarkLamp",
+      "price": 184
+    },
+    {
+      "abr": "spacerdarklamp",
+      "category": "Furniture",
+      "defname": "Light_SpacerDarkLamp",
+      "price": 184
+    },
+    {
+      "abr": "walllamp",
+      "category": "Furniture",
+      "defname": "VFEA_WallDarkLamp",
+      "price": 65
+    },
+    {
+      "abr": "animabric",
+      "category": "Textiles",
+      "defname": "VDE_Gaubric",
+      "price": 3
+    },
+    {
+      "abr": "animalsbook",
+      "category": "Books",
+      "defname": "VBE_BookAnimals",
+      "price": 2258
+    },
+    {
+      "abr": "artbook",
+      "category": "Books",
+      "defname": "VBE_BookArt",
+      "price": 2258
+    },
+    {
+      "abr": "automaticpistol",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_AutomaticPistol",
+      "price": 333
+    },
+    {
+      "abr": "awakenedbarkskindryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Barkskin",
+      "price": 500
+    },
+    {
+      "abr": "awakenedberrymakerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Berrymaker",
+      "price": 500
+    },
+    {
+      "abr": "awakenedcarrierdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Carrier",
+      "price": 500
+    },
+    {
+      "abr": "awakenedclawerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Clawer",
+      "price": 500
+    },
+    {
+      "abr": "awakenedgaubricmakerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Gaubricmaker",
+      "price": 500
+    },
+    {
+      "abr": "awakenedmedicinemakerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Medicinemaker",
+      "price": 500
+    },
+    {
+      "abr": "awakenednectarmakerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Nectarmaker",
+      "price": 500
+    },
+    {
+      "abr": "awakenedspitterdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Spitter",
+      "price": 500
+    },
+    {
+      "abr": "awakenedstonediggerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Stonedigger",
+      "price": 500
+    },
+    {
+      "abr": "awakenedwoodmakerdryad",
+      "category": "Animals",
+      "defname": "VDE_AwakenedDryad_Woodmaker",
+      "price": 500
+    },
+    {
+      "abr": "blueprint",
+      "category": "Books",
+      "defname": "VBE_Blueprint",
+      "price": 2667
+    },
+    {
+      "abr": "bullpupdmr",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_BullpupDMR",
+      "price": 1692
+    },
+    {
+      "abr": "bullpuprifle",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_BullpupRifle",
+      "price": 1158
+    },
+    {
+      "abr": "cannon",
+      "category": "Security",
+      "defname": "VFEP_Turret_Cannon",
+      "price": 262
+    },
+    {
+      "abr": "constructionbook",
+      "category": "Books",
+      "defname": "VBE_BookConstruction",
+      "price": 2258
+    },
+    {
+      "abr": "cookingbook",
+      "category": "Books",
+      "defname": "VBE_BookCooking",
+      "price": 2258
+    },
+    {
+      "abr": "craftingbook",
+      "category": "Books",
+      "defname": "VBE_BookCrafting",
+      "price": 2258
+    },
+    {
+      "abr": "dartgun",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_DartGun",
+      "price": 875
+    },
+    {
+      "abr": "derringer",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_Derringer",
+      "price": 392
+    },
+    {
+      "abr": "dryadnest",
+      "category": "Furniture",
+      "defname": "VDE_DryadNest",
+      "price": 152
+    },
+    {
+      "abr": "fieldgun",
+      "category": "Security",
+      "defname": "VFEP_Turret_FieldGun",
+      "price": 1058
+    },
+    {
+      "abr": "firebombs",
+      "category": "Grenades",
+      "defname": "VWE_Weapon_FireBomb",
+      "price": 314
+    },
+    {
+      "abr": "frontierpistol",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_FrontierPistol",
+      "price": 318
+    },
+    {
+      "abr": "gaussrepeater",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_GaussRepeater",
+      "price": 1500
+    },
+    {
+      "abr": "gaussrevolver",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_GaussRevolver",
+      "price": 908
+    },
+    {
+      "abr": "growingbook",
+      "category": "Books",
+      "defname": "VBE_BookGrowing",
+      "price": 2258
+    },
+    {
+      "abr": "handheldgatlinggun",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_HandheldGatlingGun",
+      "price": 1650
+    },
+    {
+      "abr": "heavyclub",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_HeavyClub",
+      "price": 244
+    },
+    {
+      "abr": "heavyrevolver",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_HeavyRevolver",
+      "price": 375
+    },
+    {
+      "abr": "intellectualbook",
+      "category": "Books",
+      "defname": "VBE_BookIntellectual",
+      "price": 2258
+    },
+    {
+      "abr": "lever-actionshotgun",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_LeverActionShotgun",
+      "price": 583
+    },
+    {
+      "abr": "lightclub",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_LightClub",
+      "price": 89
+    },
+    {
+      "abr": "makeshiftlmg",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_MakeshiftLMG",
+      "price": 297
+    },
+    {
+      "abr": "makeshiftpistol",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_MakeshiftPistol",
+      "price": 113
+    },
+    {
+      "abr": "makeshiftrifle",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_MakeshiftRifle",
+      "price": 243
+    },
+    {
+      "abr": "makeshiftshotgun",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_MakeshiftShotgun",
+      "price": 178
+    },
+    {
+      "abr": "makeshiftsmg",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_MakeshiftSMG",
+      "price": 172
+    },
+    {
+      "abr": "map",
+      "category": "Books",
+      "defname": "VBE_Map",
+      "price": 1333
+    },
+    {
+      "abr": "medicalbook",
+      "category": "Books",
+      "defname": "VBE_BookMedical",
+      "price": 2258
+    },
+    {
+      "abr": "meleebook",
+      "category": "Books",
+      "defname": "VBE_BookMelee",
+      "price": 2258
+    },
+    {
+      "abr": "miningbook",
+      "category": "Books",
+      "defname": "VBE_BookMining",
+      "price": 2258
+    },
+    {
+      "abr": "newspaper",
+      "category": "Books",
+      "defname": "VBE_Newspaper",
+      "price": 33
+    },
+    {
+      "abr": "non-lethalpistol",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_RubberBulletPistol",
+      "price": 175
+    },
+    {
+      "abr": "pdw",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_PDW",
+      "price": 892
+    },
+    {
+      "abr": "privateerarmor",
+      "category": "Armored",
+      "defname": "VFEP_Apparel_Privateer",
+      "price": 3692
+    },
+    {
+      "abr": "repeatingshotgun",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_RepeatingShotgun",
+      "price": 550
+    },
+    {
+      "abr": "rollingblockrifle",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_RollingBlockRifle",
+      "price": 608
+    },
+    {
+      "abr": "rum",
+      "category": "Drugs",
+      "defname": "VFEP_Rum",
+      "price": 10
+    },
+    {
+      "abr": "rumsuit",
+      "category": "Middle",
+      "defname": "VFEP_Apparel_Rumsuit",
+      "price": 350
+    },
+    {
+      "abr": "salvagedlaserhuntingrifle",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_SalvagedLaserHuntingRifle",
+      "price": 3833
+    },
+    {
+      "abr": "salvagedlaserrepeater",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_SalvagedLaserRepeater",
+      "price": 3333
+    },
+    {
+      "abr": "salvagedlaserrevolver",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_SalvagedLaserRevolver",
+      "price": 2333
+    },
+    {
+      "abr": "shiv",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_Shiv",
+      "price": 72
+    },
+    {
+      "abr": "shootingbook",
+      "category": "Books",
+      "defname": "VBE_BookShooting",
+      "price": 2258
+    },
+    {
+      "abr": "sling",
+      "category": "Ranged weapons",
+      "defname": "VWE_Sling",
+      "price": 26
+    },
+    {
+      "abr": "socialbook",
+      "category": "Books",
+      "defname": "VBE_BookSocial",
+      "price": 2258
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_StunBaton",
+      "price": 220
+    },
+    {
+      "abr": "tasergun",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_Taser",
+      "price": 1333
+    },
+    {
+      "abr": "teargasgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeTearGasBelt",
+      "price": 458
+    },
+    {
+      "abr": "teargasgrenades",
+      "category": "Grenades",
+      "defname": "VWE_TearGasGrenade",
+      "price": 458
+    },
+    {
+      "abr": "teargaslauncher",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_TearGasLauncher",
+      "price": 925
+    },
+    {
+      "abr": "throwingshards",
+      "category": "Ranged weapons",
+      "defname": "VWE_Throwing_Shards",
+      "price": 88
+    },
+    {
+      "abr": "tribalaxe",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_TribalAxe",
+      "price": 176
+    },
+    {
+      "abr": "typewritertable",
+      "category": "Production",
+      "defname": "VBE_TypewritersTable",
+      "price": 342
+    },
+    {
+      "abr": "volcanicpistol",
+      "category": "Ranged weapons",
+      "defname": "VWEFT_Gun_VolcanicPistol",
+      "price": 350
+    },
+    {
+      "abr": "warcasketautorifle",
+      "category": "Misc",
+      "defname": "VFEP_Box_Autorifle",
+      "price": 2083
+    },
+    {
+      "abr": "warcasketautorifle",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Autorifle",
+      "price": 2083
+    },
+    {
+      "abr": "warcasketbroadsword",
+      "category": "Misc",
+      "defname": "VFEP_Box_Broadsword",
+      "price": 2433
+    },
+    {
+      "abr": "warcasketbroadsword",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_Broadsword",
+      "price": 2433
+    },
+    {
+      "abr": "warcasketcombatknife",
+      "category": "Misc",
+      "defname": "VFEP_Box_CombatKnife",
+      "price": 1450
+    },
+    {
+      "abr": "warcasketcombatknife",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_CombatKnife",
+      "price": 1450
+    },
+    {
+      "abr": "warcasketgrenadelauncher",
+      "category": "Misc",
+      "defname": "VFEP_Box_GrenadeLauncher",
+      "price": 3150
+    },
+    {
+      "abr": "warcasketgrenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_GrenadeLauncher",
+      "price": 3150
+    },
+    {
+      "abr": "warcasketheavyflamer",
+      "category": "Misc",
+      "defname": "VFEP_Box_HeavyFlamer",
+      "price": 4083
+    },
+    {
+      "abr": "warcasketheavyflamer",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_HeavyFlamer",
+      "price": 4083
+    },
+    {
+      "abr": "warcasketminigun",
+      "category": "Misc",
+      "defname": "VFEP_Box_Minigun",
+      "price": 3733
+    },
+    {
+      "abr": "warcasketminigun",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Minigun",
+      "price": 3733
+    },
+    {
+      "abr": "warcasketslugthrower",
+      "category": "Misc",
+      "defname": "VFEP_Box_Slugthrower",
+      "price": 1833
+    },
+    {
+      "abr": "warcasketslugthrower",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Slugthrower",
+      "price": 1833
+    },
+    {
+      "abr": "warcasketuraniumslugrifle",
+      "category": "Misc",
+      "defname": "VFEP_Box_UraniumSlugRifle",
+      "price": 2750
+    },
+    {
+      "abr": "warcasketuraniumslugrifle",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_UraniumSlugRifle",
+      "price": 2750
+    },
+    {
+      "abr": "writerstable",
+      "category": "Production",
+      "defname": "VBE_WritersTable",
+      "price": 252
     }
   ],
-  "total": 4872
+  "total": 4973
 }
