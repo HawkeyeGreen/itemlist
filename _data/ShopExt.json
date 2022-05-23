@@ -141,50 +141,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is adorable being with smooth and charming voice, as expected from gene-engineered servitor. There is something mysterious about him that attracts everyone around. Even plants start to bloom around Timmy...",
-      "stats": [
-        "+5 social",
-        "+5 animals",
-        "+5 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+2.0 beauty",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vulpes - Adorable Foxes! [1.3]",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5 social",
-          "+5 animals",
-          "+5 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+2.0 beauty",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ]
-      },
-      "defName": "Adorable",
-      "name": "adorable",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is an Ambusher, a fighter that lies in cold wait for their enemies with traps and devastating close-range abilities.",
       "stats": [
         "-16% mental break threshold",
@@ -53965,6 +53921,82 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "For some strange reason, Timmy is not touched by ancient mechanoids, they constantly ignore him no matter what Timmy takes against them.",
+      "stats": [
+        "Morbid meditation focus type allowed.",
+        "Only mental break \"Wander_OwnRoom\" allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "kemomimilike",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Morbid meditation focus type allowed.",
+          "Only mental break \"Wander_OwnRoom\" allowed."
+        ]
+      },
+      "defName": "Valkyrie_Herrschers_WVC",
+      "name": "techno-ghost",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a Vulpian, and he is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by his adorable appearence. Even plants start to bloom around Timmy!",
+      "stats": [
+        "+5 social",
+        "+3 intellectual",
+        "+2 animals",
+        "+2 plants",
+        "+25.00% train animal chance",
+        "+10.00% tame animal chance",
+        "+50.00% trade price improvement",
+        "+50.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vulpes - Adorable Foxes! [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5 social",
+          "+3 intellectual",
+          "+2 animals",
+          "+2 plants",
+          "+25.00% train animal chance",
+          "+10.00% tame animal chance",
+          "+50.00% trade price improvement",
+          "+50.00% social impact"
+        ]
+      },
+      "defName": "VAF_Vulpian",
+      "name": "vulpian",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -54006,7 +54038,7 @@
           "+45.0% Armor - Sharp",
           "+20% Mental break threshold"
         ],
-        "mod": "Oni of the Rim",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54062,7 +54094,7 @@
           "+200% Mining speed",
           "+80% Mining yield"
         ],
-        "mod": "Anty the war ant race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54083,7 +54115,7 @@
           "+30.0C Maximum comfortable temperature",
           "+70 Leather amount"
         ],
-        "mod": "Humanoid Project (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54108,7 +54140,7 @@
           "+120.00% Social impact",
           "+4 Honor value"
         ],
-        "mod": "Callistan Renewal",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54141,7 +54173,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54174,7 +54206,7 @@
           "+200.0% Armor - Heat",
           "+100 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54208,7 +54240,7 @@
           "+200.0% Armor - Heat",
           "+150 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54241,7 +54273,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54274,7 +54306,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54296,7 +54328,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "RimWorld",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54336,7 +54368,7 @@
           "+110% Rest rate multiplier",
           "+80% Plant work speed"
         ],
-        "mod": "Kurin HAR Edition",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54368,7 +54400,7 @@
           "+65.0% Armor - Blunt",
           "+80.0% Armor - Sharp"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54401,7 +54433,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54424,7 +54456,7 @@
           "+110% Psychic sensitivity",
           "+45.00 Mass"
         ],
-        "mod": "The Mantodean insectoid race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54458,7 +54490,7 @@
           "+200.0% Armor - Heat",
           "+150 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54483,7 +54515,7 @@
           "+125.00% Social impact",
           "+1.2 Melee dodge chance"
         ],
-        "mod": "Orassans",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54517,7 +54549,7 @@
           "+90% Repair success chance",
           "+95% General labor speed"
         ],
-        "mod": "Oni of the Rim",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54542,7 +54574,7 @@
           "+120.00% Social impact",
           "+1.3 Melee dodge chance"
         ],
-        "mod": "Orassans",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54575,7 +54607,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Callistan Robotics",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54625,7 +54657,7 @@
           "+80% Mining speed",
           "+100% Mining yield"
         ],
-        "mod": "Rabbie The Moonrabbit race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54661,7 +54693,7 @@
           "+40% Medical tend quality",
           "+60% Medical surgery success chance"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54697,7 +54729,7 @@
           "+60% Medical tend quality",
           "+80% Medical surgery success chance"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54730,7 +54762,7 @@
           "+40.0% Armor - Sharp",
           "+100% Medical surgery success chance"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54764,7 +54796,7 @@
           "+80% Butchery efficiency",
           "+120% Medical surgery success chance"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54798,7 +54830,7 @@
           "+80% Butchery efficiency",
           "+120% Medical surgery success chance"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54834,7 +54866,7 @@
           "+60% Medical tend quality",
           "+80% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54870,7 +54902,7 @@
           "+60% Medical tend quality",
           "+80% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54906,7 +54938,7 @@
           "+60% Medical tend quality",
           "+80% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54942,7 +54974,7 @@
           "+60% Medical tend quality",
           "+80% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -54975,7 +55007,7 @@
           "+40.0% Armor - Sharp",
           "+100% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55008,7 +55040,7 @@
           "+40.0% Armor - Sharp",
           "+100% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55042,7 +55074,7 @@
           "+80% Butchery efficiency",
           "+120% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55076,7 +55108,7 @@
           "+80% Butchery efficiency",
           "+120% Medical surgery success chance"
         ],
-        "mod": "Android tiers - TX Series",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55097,7 +55129,7 @@
           "+26.0C Maximum comfortable temperature",
           "+45 Leather amount"
         ],
-        "mod": "Humanoid Project (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55118,7 +55150,7 @@
           "+26.0C Maximum comfortable temperature",
           "+45 Leather amount"
         ],
-        "mod": "Humanoid Project (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55135,7 +55167,7 @@
           "+70% Flammability",
           "+1.0 Beauty",
           "+50 Carrying capacity",
-          "+50% Pain shock threshold",
+          "+80% Pain shock threshold",
           "+$3000 Market value",
           "+8.00 Move speed",
           "+150% Immunity gain speed",
@@ -55143,8 +55175,10 @@
           "+50.0C Maximum comfortable temperature",
           "+35 Leather amount",
           "+50 Meat amount",
+          "+200% Global work speed",
           "+400% Research speed",
           "+200% Global learning factor",
+          "+100% Psychic sensitivity",
           "+50% Mining speed",
           "+200.00% Social impact",
           "+75% Construction speed",
@@ -55152,7 +55186,7 @@
           "+125% Animal gather yield",
           "+4.0 Shooting accuracy"
         ],
-        "mod": "Vulpes - Adorable Foxes! [1.3]",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55185,7 +55219,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Warframe (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55228,7 +55262,7 @@
           "+23.0C Maximum comfortable temperature",
           "+3 Honor value"
         ],
-        "mod": "Mincho, The Mint Choco Slime ~ HAR ver.",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55260,7 +55294,7 @@
           "+65.0% Armor - Blunt",
           "+80.0% Armor - Sharp"
         ],
-        "mod": "Android tiers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55318,7 +55352,7 @@
           "+45.0% Armor - Blunt",
           "+135.0% Armor - Sharp"
         ],
-        "mod": "Anty the war ant race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55345,7 +55379,7 @@
           "+40 Leather amount",
           "+$1750 Market value"
         ],
-        "mod": "Bun Race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55368,7 +55402,7 @@
           "+0 Meat amount",
           "+200.0% Armor - Heat"
         ],
-        "mod": "Save Our Ship 2",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55395,7 +55429,7 @@
           "+110% Animal gather speed",
           "+110% Animal gather yield"
         ],
-        "mod": "Logann Race (Continued)",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55421,7 +55455,7 @@
           "+1 Biotic energy recovery rate",
           "+100.0% Biotic ability cost multiplier"
         ],
-        "mod": "Rim-Effect: Asari and Reapers",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55443,7 +55477,7 @@
           "+50 Leather amount",
           "+4 Honor value"
         ],
-        "mod": "Rim-Effect: Drell",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55466,7 +55500,7 @@
           "+135% Immunity gain speed",
           "+25 Leather amount"
         ],
-        "mod": "Androids",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55499,7 +55533,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Androids",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55533,7 +55567,7 @@
           "+200.0% Armor - Heat",
           "+150 Carrying capacity"
         ],
-        "mod": "Androids",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -55542,6 +55576,306 @@
       "enabled": true,
       "name": "Battle droid",
       "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+39.00 Mass",
+          "+100% Flammability",
+          "+150% Mechanite crafter work speed",
+          "+100% Incoming damage multiplier",
+          "+4.90 Move speed",
+          "+$1.00 Market value",
+          "-50.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+0.0 Filth rate",
+          "+40 Meat amount",
+          "+0 Leather amount",
+          "+0% Toxic sensitivity",
+          "+100% Psychic sensitivity",
+          "+30.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+0.0% Armor - Heat",
+          "+0% Trap spring chance",
+          "+80% Butchery efficiency",
+          "+120% Mechanoid shredding efficiency",
+          "+80% Global work speed",
+          "+0.00% Food poison chance",
+          "+2.0 Beauty",
+          "+120.00% Social impact",
+          "+150% General labor speed",
+          "+80% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+120% Medical tend quality",
+          "+80% Medical surgery success chance",
+          "+0.00% Bond chance factor",
+          "+120% Rest rate multiplier",
+          "+20.0 Melee dodge chance",
+          "+20.0 Melee hit chance",
+          "+200% Immunity gain speed",
+          "+0 Honor value",
+          "+150% Global learning factor",
+          "-100% Mental break threshold",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+200% Injury healing factor",
+          "+125 Carrying capacity",
+          "+0.5 Foraged food amount",
+          "+50.00% Conversion power",
+          "+200% Global certainty loss factor",
+          "+0% Ideoligion spread chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One day the sound of the wind and the rustle of foliage died down, and the guardian of the tree woke up from a long sleep.\n\nDryad girls collect all sorts of trash that, in their opinion, looks beautiful, it can be something useful or just trash. They are a universal dryad caste, which, although inferior to specialized dryads, is not significantly.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.",
+      "defName": "Alien_RoyalDryad_WVC",
+      "enabled": true,
+      "name": "<color=#ffcea2>Royal dryad</color>",
+      "price": 2
+    },
+    {
+      "data": {
+        "stats": [
+          "+46.00 Mass",
+          "+100% Flammability",
+          "+150% Mechanite crafter work speed",
+          "+100% Incoming damage multiplier",
+          "+4.90 Move speed",
+          "+$130000 Market value",
+          "-20.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+0.0 Filth rate",
+          "+40 Meat amount",
+          "+75 Leather amount",
+          "+100% Toxic sensitivity",
+          "+100% Psychic sensitivity",
+          "+25.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+30.0% Armor - Heat",
+          "+0% Trap spring chance",
+          "+80% Butchery efficiency",
+          "+120% Mechanoid shredding efficiency",
+          "+80% Global work speed",
+          "+80.00% Food poison chance",
+          "+2.0 Beauty",
+          "+120.00% Social impact",
+          "+150% General labor speed",
+          "+80% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+120% Medical tend quality",
+          "+80% Medical surgery success chance",
+          "+120.00% Bond chance factor",
+          "+120% Rest rate multiplier",
+          "+20.0 Melee dodge chance",
+          "+20.0 Melee hit chance",
+          "+100% Immunity gain speed",
+          "+12 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Valkyries - an ancient race created to resist the mechanoids. Despite all the genetic changes, they are almost indistinguishable from humans in appearance, with the exception of the not rare presence of tails, horns, additional pairs of ears and other minor distinguishing features. How and by whom they were created has long been lost in time, but representatives of this race can still be found today in the expanses of the rimworld.<color=#a2c8ff>\n\nAccording to the original idea, mutations were supposed to be a replacement for the degradation of organs and not be so obvious. However, with the change of generations, less \"human\" and more \"alien\" representatives of this race began to appear, some of which are only indirectly related to the Valkyries.\n\nOne of the significant genetic deviations was the complete degeneration of the male half of this race, which is why this race consists entirely of girls and was called the Valkyries. But despite this, the representatives of the Valkyries race have full compatibility with non-genetically modified humans, thanks to which they have not become extinct.</color>\n\nWith age, even the laziest Valkyrie has a very good \"natural preparation\" of the body, which is why these girls are always very dangerous in close combat.",
+      "defName": "Alien_Valkyrie_WVC",
+      "enabled": true,
+      "name": "<color=#a2c8ff>Valkyrie</color>",
+      "price": 216667
+    },
+    {
+      "data": {
+        "stats": [
+          "+22.00 Mass",
+          "+50% Flammability",
+          "+150% Mechanite crafter work speed",
+          "+100% Incoming damage multiplier",
+          "+6.90 Move speed",
+          "+$130000 Market value",
+          "-50.0C Minimum comfortable temperature",
+          "+60.0C Maximum comfortable temperature",
+          "+0.0 Filth rate",
+          "+40 Meat amount",
+          "+75 Leather amount",
+          "+0% Toxic sensitivity",
+          "+75% Psychic sensitivity",
+          "+12.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+15.0% Armor - Heat",
+          "+0% Trap spring chance",
+          "+80% Butchery efficiency",
+          "+120% Mechanoid shredding efficiency",
+          "+100% Global work speed",
+          "+50.00% Food poison chance",
+          "+2.0 Beauty",
+          "+120.00% Social impact",
+          "+80% General labor speed",
+          "+80% Drug synthesis speed",
+          "+150% Medical tend speed",
+          "+150% Medical tend quality",
+          "+150% Medical surgery success chance",
+          "+50.00% Bond chance factor",
+          "+120% Rest rate multiplier",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+200% Immunity gain speed",
+          "+12 Honor value",
+          "+35 Carrying capacity",
+          "+0% Entropy death chance",
+          "+150.00% Conversion power",
+          "+50% Global certainty loss factor",
+          "+200% Ideoligion spread chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Equipment: Living Form - small humanoid helpers. They are miniature copies of the Valkyries, their bodies are subject to the same mutations and aberrations. They were created to simplify the life of the Valkyries, helping to treat wounds, cooking and psychological assistance. The fate of the ELFs was similar, after the closure of the project, they dispersed around the world.<color=#a2adff>\n\nELFs are considered adults from the age of 6, and their height does not exceed 1 meter. They are incapable of reproduction and new ELFs are reared in \"mechanical eggs\". To create them, the Valkyrie gene is used. Most organs are created with mechanites. Their bodies are small and light, and they are also able to levitate, this is not like flying, as it can linger in the air for a short time.</color>\n\nDespite the difficulties of creating ELFs, they meet no less than the Valkyries, however, they cannot answer who creates them and where they come from. According to one of the assumptions, the Mechanoids use them for their own purposes, and some unsuccessful or decommissioned copies fall into the wild.",
+      "defName": "Alien_ELF_WVC",
+      "enabled": true,
+      "name": "<color=#a2adff>ELF</color>",
+      "price": 216667
+    },
+    {
+      "data": {
+        "stats": [
+          "+196.00 Mass",
+          "+200% Flammability",
+          "+150% Mechanite crafter work speed",
+          "+100% Incoming damage multiplier",
+          "+2.00 Move speed",
+          "+$130000 Market value",
+          "-22.0C Minimum comfortable temperature",
+          "+27.0C Maximum comfortable temperature",
+          "+0.0 Filth rate",
+          "+40 Meat amount",
+          "+75 Leather amount",
+          "+0% Toxic sensitivity",
+          "+120% Psychic sensitivity",
+          "+25.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+30.0% Armor - Heat",
+          "+0% Trap spring chance",
+          "+80% Butchery efficiency",
+          "+120% Mechanoid shredding efficiency",
+          "+80% Global work speed",
+          "+80.00% Food poison chance",
+          "+2.0 Beauty",
+          "+120.00% Social impact",
+          "+150% General labor speed",
+          "+80% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+120% Medical tend quality",
+          "+80% Medical surgery success chance",
+          "+0.00% Bond chance factor",
+          "+120% Rest rate multiplier",
+          "+20.0 Melee dodge chance",
+          "+20.0 Melee hit chance",
+          "+200% Immunity gain speed",
+          "+24 Honor value",
+          "+120% Global learning factor",
+          "-100% Mental break threshold",
+          "+200% Pruning speed",
+          "+120.00% Tame animal chance",
+          "+120.00% Train animal chance",
+          "+120% Ideoligion spread chance",
+          "+200% Injury healing factor",
+          "+125 Carrying capacity",
+          "+1 Foraged food amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A rare subspecies of Valkyrie that hybridizes with Gauranlen sprouts.\n\nUsually mutations change Valkyries slightly, an additional tail, an eye, or unusual abilities. In the case of the Dryad Mother, the mutation brought about significant changes in both body structure and brain structure, creating separate subspecies.<color=#f5ffa2>\n\nDryad mothers do not experience emotions, and the reproductive system has been modified so that they are able to \"give birth\" to small mammalian creatures - dryads. Dryads \"born\" by the Mother are different from the usual, although they have a direct relationship. They are something like a biomass that has no mind and is controlled directly by the Mother. The process of birth itself has nothing to do with how it occurs in mammals, since the biomass simply falls away from the Mother like shed skin. The mucus of the bomass itself accumulates on the body of the Dryad along with sweat, or rather it is. The biomass covering the entire body of the Mother exists in synbiosis with her, protecting her from the effects of the external environment. The disadvantage is the flammability of biomass.</color>\n\nDespite her size, the Dryad Mother is very heavy, which limits her mobility, however, despite the fact that she is slow, she can still deftly dodge blows.\n\nThere is speculation that Wanderers are descended from the Mothers and are unshakled dryads.\n\nAlso on their heads, along with their hair, leaves grow like those of the Gauranlen tree, so leaves can fall from the Mother's head. Sometimes, instead of leaves of Gauranlen, a seed may fall from it.",
+      "defName": "Alien_DryadMother_WVC",
+      "enabled": true,
+      "name": "<color=#f5ffa2>Dryad mother</color>",
+      "price": 216667
+    },
+    {
+      "data": {
+        "stats": [
+          "+46.00 Mass",
+          "+100% Flammability",
+          "+150% Mechanite crafter work speed",
+          "+100% Incoming damage multiplier",
+          "+5.90 Move speed",
+          "+$130000 Market value",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0.0 Filth rate",
+          "+40 Meat amount",
+          "+0 Leather amount",
+          "+0% Toxic sensitivity",
+          "+75% Psychic sensitivity",
+          "+25.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+30.0% Armor - Heat",
+          "+0% Trap spring chance",
+          "+80% Butchery efficiency",
+          "+120% Mechanoid shredding efficiency",
+          "+100% Global work speed",
+          "+80.00% Food poison chance",
+          "+2.0 Beauty",
+          "+120.00% Social impact",
+          "+150% General labor speed",
+          "+80% Drug synthesis speed",
+          "+80% Medical tend speed",
+          "+200% Medical tend quality",
+          "+80% Medical surgery success chance",
+          "+120.00% Bond chance factor",
+          "+120% Rest rate multiplier",
+          "+20.0 Melee dodge chance",
+          "+20.0 Melee hit chance",
+          "+100% Immunity gain speed",
+          "+12 Honor value",
+          "+120% Global learning factor",
+          "+200.00% Arrest success chance",
+          "+80.00% Trade price improvement"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Herrschers are descended from Valkyries. More precisely, the Herrschers are the Valkyries, who were caught by the mechanoids and modified for their own purposes. The true purpose of the Herrscher is unknown, but the appearance of this creature on the battlefield significantly tips the scales. Even if Herrscher rebelled against his \"master\", the mechanoids would still not attack Herrscher. They are not very loyal to their creators, so a sufficiently experienced group will be able to enlist such an ally.\n\nTo defeat Herrscher is not enough just an experienced group of shooters, each Herrscher needs its own approach and in most cases casualties are inevitable.\n\nHerrschers have \"innate\" psi-abilities and are able to create neuroformers.",
+      "defName": "Alien_Herrscher_HoS_WVC",
+      "enabled": true,
+      "name": "<color=#cca2ff>Herrscher</color>",
+      "price": 216667
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$3200 Market value",
+          "+4.00 Move speed",
+          "+18.0C Maximum comfortable temperature",
+          "+2.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100.00% Social impact",
+          "+85% General labor speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 5333
     }
   ]
 }
