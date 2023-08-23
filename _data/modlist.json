@@ -126,6 +126,18 @@
     "version": null
   },
   {
+    "author": "Adamas",
+    "name": "Hospitality: Vending machines",
+    "steamId": "3014885065",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "DimonSever000",
     "name": "Backstories+",
     "steamId": null,
@@ -156,12 +168,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and Smash Phil",
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
@@ -180,12 +186,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
@@ -194,6 +194,12 @@
   {
     "author": "Oskar Potocki, Trunken and Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -274,6 +280,72 @@
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Arid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Aspen",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boreal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Extinct Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Swamp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boiling",
+    "steamId": "2981924439",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Wastelands",
+    "steamId": "2122461695",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Temperate",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Tundra",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Tropical",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Kikohi and Helixien",
@@ -546,10 +618,22 @@
     "version": null
   },
   {
+    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - Mushrooms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PlayIgel, Alastair, Kayedon, SalmonToastie and Xrushha",
+    "name": "VFME - Caravan Packs!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1341"
+    "version": "1.5.1351"
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -574,6 +658,54 @@
     "name": "Rim-Effect: N7",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.5.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Caverns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Oasis",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
   },
   {
     "author": "SomewhereOutInSpace",
@@ -1104,6 +1236,18 @@
     "version": null
   },
   {
+    "author": "ChaosDeadeye",
+    "name": "Miho, the celestial fox [english translation]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -1170,12 +1314,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Pharmacist",
-    "steamId": "1365242717",
-    "version": "2.9.140"
-  },
-  {
     "author": "Sergkart",
     "name": "WVC - Core",
     "steamId": null,
@@ -1206,6 +1344,12 @@
     "version": null
   },
   {
+    "author": "Neceros",
+    "name": "Ceiling Lights",
+    "steamId": "2014652560",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "3HST Limited",
     "name": "Bill Doors' Berry Expanded",
     "steamId": null,
@@ -1219,9 +1363,39 @@
   },
   {
     "author": "Captain_Tess",
-    "name": "Simply Wheel Barrow",
+    "name": "Simply Wheel Barrow (Vehicle)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ricky and Kurtus_Mob",
+    "name": "The Brotherhood Compendium \"Continued\"",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "IcyCheeseCake",
+    "name": "Taste of Vanilla - The Brotherhood Compendium",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Ancient Complex Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist Temporary 1.4 Update",
+    "steamId": "2880823401",
+    "version": "2.9.140"
   },
   {
     "author": "nry",
