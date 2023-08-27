@@ -30,6 +30,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Romyashi",
+    "name": "Drop Loot When Destroyed Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "No Laggy Bed",
     "steamId": "2790250834",
@@ -162,6 +168,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -280,6 +292,18 @@
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
   },
   {
     "author": "Helixien",
@@ -492,12 +516,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Social Interactions Expanded",
-    "steamId": "2439736083",
-    "version": "1.0.0.1"
-  },
-  {
     "author": "Oskar Potocki and Alestria",
     "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
@@ -624,6 +642,72 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Animals Expanded — Royal Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
+    "name": "Vanilla Animals Expanded — Waste Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Helixien Gas Expanded",
+    "steamId": "2877699803",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Deserters",
+    "steamId": "3025493377",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
+    "name": "Vanilla Races Expanded - Phytokin",
+    "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "PlayIgel, Alastair, Kayedon, SalmonToastie and Xrushha",
     "name": "VFME - Caravan Packs!",
     "steamId": null,
@@ -633,7 +717,13 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1351"
+    "version": "1.5.1356"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -1146,6 +1236,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Zaljerem",
+    "name": "Absolutely More Cannons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Absolutely More Cannons - No Need Ammo (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "none",
+    "name": "Absolutely More Cannons - Long Range Artillery (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mehni",
     "name": "Dismiss Trader (Continued)",
     "steamId": null,
@@ -1212,6 +1320,12 @@
     "version": null
   },
   {
+    "author": "Zaljerem",
+    "name": "Medieval Times (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "RimWorld - Witcher Monster Hunt",
     "steamId": "2008529522",
@@ -1226,6 +1340,24 @@
   {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[1.4]Nearmare Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[1.4]Silkiera Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WRelicK",
+    "name": "WRelicK's English Ayameduki Race Translations - Chaoura, Idearn, Idhale, Littluna, Nearmare, Neclose, Nexaga, QL, SL, SK, SA, XO",
     "steamId": null,
     "version": null
   },
@@ -1392,6 +1524,12 @@
     "version": null
   },
   {
+    "author": "SirMashedPotato",
+    "name": "RimWorld - The Dark Descent",
+    "steamId": "2151315388",
+    "version": "1.1.26"
+  },
+  {
     "author": "Fluffy",
     "name": "Pharmacist Temporary 1.4 Update",
     "steamId": "2880823401",
@@ -1426,6 +1564,30 @@
     "name": "Stack XXL",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.6.0.0"
+  },
+  {
+    "author": "Kapitan Oczywisty",
+    "name": "Change map edge limit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Romyashi",
+    "name": "Ancient Junk Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sincere",
+    "name": "Map Transmutation",
+    "steamId": "3022984676",
+    "version": "1.4"
   },
   {
     "author": "kathanon",
