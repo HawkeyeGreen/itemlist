@@ -722,8 +722,8 @@
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
     "name": "Vanilla Vehicles Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -817,6 +817,12 @@
   },
   {
     "author": "Haplo",
+    "name": "Miscellaneous 'CORE'",
+    "steamId": "704181221",
+    "version": "1.4.3"
+  },
+  {
+    "author": "Haplo",
     "name": "Misc. Robots",
     "steamId": null,
     "version": null
@@ -826,6 +832,24 @@
     "name": "Misc. Robots++",
     "steamId": "747645520",
     "version": "3.3.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Incidents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DaLLaN",
+    "name": "Cyber Fauna 1.4",
+    "steamId": "1548649032",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson and Ben Lubar",
@@ -981,7 +1005,7 @@
     "author": "KongMD",
     "name": "Questionable Ethics Enhanced (Continued)",
     "steamId": "2850854272",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Dubwise",
@@ -1180,6 +1204,18 @@
     "name": "[RWY]Dragon's Descent: Void Dwellers",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "AuroranKingslayer",
+    "name": "AuroranKingslayer's RimWorld of the Dragon (Addon for Dragon's Descent)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Holgast",
+    "name": "Dragon Genetics",
+    "steamId": "2846348757",
+    "version": "1.0.0.0"
   },
   {
     "author": "ALIEN",
@@ -1560,6 +1596,30 @@
     "version": "1.4.1"
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Race to the Rim",
+    "steamId": "2325478123",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages : Medieval Tools",
+    "steamId": "3028566550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gloomylynx NukaFrog",
+    "name": "Dragonian Race 1.4(unofficial)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Indeed",
     "name": "Stack XXL",
     "steamId": null,
@@ -1578,10 +1638,22 @@
     "version": null
   },
   {
+    "author": "DaLLaN",
+    "name": "Jelly Farm 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Romyashi",
     "name": "Ancient Junk Loot",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.6.0.0"
   },
   {
     "author": "Sincere",
@@ -1600,6 +1672,18 @@
     "name": "RimConnect",
     "steamId": "1880784338",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirKota",
+    "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0"
   },
   {
     "author": "Trinity",
