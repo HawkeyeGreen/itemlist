@@ -717,7 +717,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1356"
+    "version": "1.5.1368"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
@@ -908,6 +908,12 @@
   {
     "author": "Roo",
     "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BlackMarket420",
+    "name": "Hunterphage Xenotype",
     "steamId": null,
     "version": null
   },
@@ -1626,6 +1632,18 @@
     "version": null
   },
   {
+    "author": "Yoann",
+    "name": "Mud - Slow down opponents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yoann",
+    "name": "Baby Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
@@ -1646,6 +1664,12 @@
   {
     "author": "Romyashi",
     "name": "Ancient Junk Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Advanced Electric Stove (Continued)",
     "steamId": null,
     "version": null
   },
@@ -1676,6 +1700,12 @@
   {
     "author": "SirKota",
     "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jechto",
+    "name": "CaseLootBoxes",
     "steamId": null,
     "version": null
   },
