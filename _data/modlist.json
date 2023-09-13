@@ -24,6 +24,12 @@
     "version": "10.0.1"
   },
   {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "3HST Limited",
     "name": "Bill Doors' Framework",
     "steamId": "2897160312",
@@ -754,6 +760,30 @@
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.6.5.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Clothing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Security",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Uncle Boris' - Used Furniture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "The Biomes Mod Team",
@@ -1689,12 +1719,6 @@
     "author": "kathanon",
     "name": "Who's Using That?",
     "steamId": "3018919825",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "InfinitySamurai",
-    "name": "RimConnect",
-    "steamId": "1880784338",
     "version": "1.0.0.0"
   },
   {

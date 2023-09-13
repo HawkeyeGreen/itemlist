@@ -43499,7 +43499,2167 @@
 		"price": 2167,
 		"category": "Ranged weapons",
 		"defname": "Gun_VolleyRifle"
-	}
+	},
+	{
+		"abr": "155mmshellied",
+		"price": 658,
+		"category": "Security",
+		"defname": "RN2Explosive_155mmIED"
+	},
+	{
+		"abr": "5.11tactecbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_511TacTec_Tan"
+	},
+	{
+		"abr": "6b48helmet",
+		"price": 231,
+		"category": "Armored",
+		"defname": "RNApparel_6B48_Helmet"
+	},
+	{
+		"abr": "a&cherobackpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_AnCHero"
+	},
+	{
+		"abr": "aa-12",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AA12_Shotgun"
+	},
+	{
+		"abr": "ace52",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_IWIACE52_Rifle"
+	},
+	{
+		"abr": "achhelmet(ucp)",
+		"price": 542,
+		"category": "Armored",
+		"defname": "RNApparel_ACH_UCP"
+	},
+	{
+		"abr": "acr",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_ACR_Rifle"
+	},
+	{
+		"abr": "acu(ucp)",
+		"price": 185,
+		"category": "Skin",
+		"defname": "RNApparel_ACU_UCP"
+	},
+	{
+		"abr": "acupants(ucp)",
+		"price": 290,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_ACUUCP"
+	},
+	{
+		"abr": "ak5c",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AK5C_Carbine"
+	},
+	{
+		"abr": "ak-103",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AK103_Rifle"
+	},
+	{
+		"abr": "ak47",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AK47_Rifle"
+	},
+	{
+		"abr": "ak74",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AK74_Rifle"
+	},
+	{
+		"abr": "ak-74u",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AK74U_SMG"
+	},
+	{
+		"abr": "alicewebbing",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_ALICEWebbing_ColdWar"
+	},
+	{
+		"abr": "amapiiibackpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_AMAPIII"
+	},
+	{
+		"abr": "ar500veritasbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_AR500Veritas_Brown"
+	},
+	{
+		"abr": "arktistacticalvest",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_Arktis_TacticalVest"
+	},
+	{
+		"abr": "asval",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "RNGun_ASVAL_Rifle"
+	},
+	{
+		"abr": "assaultpack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_AssaultPack"
+	},
+	{
+		"abr": "auga1",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_AUGA1_Rifle"
+	},
+	{
+		"abr": "azimutssrucksack",
+		"price": 667,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_AzimutSSKangaroo"
+	},
+	{
+		"abr": "bailoutbag",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_HelikonBailOutBag"
+	},
+	{
+		"abr": "balaclava(5.11)",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "RNApparel_Balaclava_511M"
+	},
+	{
+		"abr": "balaclava(aikuerskull)",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "RNApparel_Balaclava_AikuerSkull"
+	},
+	{
+		"abr": "balaclava(cheekibreeki)",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "RNApparel_Balaclava_CheekiBreeki"
+	},
+	{
+		"abr": "balaclava(exf)",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "RNApparel_Balaclava_EXF"
+	},
+	{
+		"abr": "balaclava(highlander)",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "RNApparel_Balaclava_Highlander"
+	},
+	{
+		"abr": "ballisticgoggles(8x10)",
+		"price": 107,
+		"category": "Eyes",
+		"defname": "RNApparel_EyePros_8X10BallisticGoggles"
+	},
+	{
+		"abr": "barrackbed",
+		"price": 162,
+		"category": "Furniture",
+		"defname": "RH2_BarrackBed"
+	},
+	{
+		"abr": "baseballbat",
+		"price": 179,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Baseball_Bat"
+	},
+	{
+		"abr": "baseballbat(brooklynsmasher)",
+		"price": 311,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_BrooklynSmasher_Bat"
+	},
+	{
+		"abr": "baseballcap",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "RNApparel_BaseballCap_511Tactical"
+	},
+	{
+		"abr": "basketballhoop",
+		"price": 101,
+		"category": "Recreation",
+		"defname": "RH2_BasketballHoop"
+	},
+	{
+		"abr": "bdu(dmarpat)",
+		"price": 182,
+		"category": "Skin",
+		"defname": "RNApparel_BDU_DMARPAT"
+	},
+	{
+		"abr": "bdupants(dmarpat)",
+		"price": 290,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_BDUDMARPAT"
+	},
+	{
+		"abr": "beaniehat",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "RNApparel_Beanie_Beechfield"
+	},
+	{
+		"abr": "bearpac20backpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_BearGryllsBearpac"
+	},
+	{
+		"abr": "benellimontefeltro",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_BenelliMontefeltro_Shotgun"
+	},
+	{
+		"abr": "bgm-71towlauncher",
+		"price": 1775,
+		"category": "Security",
+		"defname": "RN2Gun_TOW_Launcher"
+	},
+	{
+		"abr": "bikerjacket",
+		"price": 331,
+		"category": "Outer",
+		"defname": "RNApparel_BikerJacket_Generic"
+	},
+	{
+		"abr": "blazewrapscarf",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "RNApparel_Shemagh_511BlazeWrap"
+	},
+	{
+		"abr": "booniehat",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "RNApparel_BoonieHat_Bushmaster"
+	},
+	{
+		"abr": "bristolbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_BristolBodyArmor_Olive"
+	},
+	{
+		"abr": "buttonshirt",
+		"price": 183,
+		"category": "Skin",
+		"defname": "RNApparel_ButtonShirt_Generic"
+	},
+	{
+		"abr": "c14timberwolf",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "RNGun_C14Timberwolf_Sniper"
+	},
+	{
+		"abr": "c-4charge",
+		"price": 134,
+		"category": "Security",
+		"defname": "RN2Explosive_C4Charge"
+	},
+	{
+		"abr": "c-4ied",
+		"price": 247,
+		"category": "Security",
+		"defname": "RN2Explosive_C4IED"
+	},
+	{
+		"abr": "c7a1",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_C7A1_Rifle"
+	},
+	{
+		"abr": "c8cqb",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_C8CQB_Carbine"
+	},
+	{
+		"abr": "canvasbed",
+		"price": 145,
+		"category": "Furniture",
+		"defname": "RH2_CanvasBed"
+	},
+	{
+		"abr": "canvaschair",
+		"price": 131,
+		"category": "Furniture",
+		"defname": "RH2_CanvasChair"
+	},
+	{
+		"abr": "cassetteradio",
+		"price": 160,
+		"category": "Misc",
+		"defname": "RH_MusicRadio"
+	},
+	{
+		"abr": "chainsaw(echo)",
+		"price": 1500,
+		"category": "Melee weapons",
+		"defname": "RHMelee_ECHO_Chainsaw"
+	},
+	{
+		"abr": "coltcobra",
+		"price": 226,
+		"category": "Ranged weapons",
+		"defname": "RNGun_ColtCobra_Revolver"
+	},
+	{
+		"abr": "coltpython",
+		"price": 226,
+		"category": "Ranged weapons",
+		"defname": "RNGun_ColtPython_Revolver"
+	},
+	{
+		"abr": "combatknife(bokerm3)",
+		"price": 122,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_M3Trench_Knife"
+	},
+	{
+		"abr": "combatknife(eickhornrecondoiv)",
+		"price": 106,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_EickhornRecondoIV_Knife"
+	},
+	{
+		"abr": "combatknife(kabar)",
+		"price": 122,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_KABAR_Knife"
+	},
+	{
+		"abr": "combatknife(m9bayonet)",
+		"price": 137,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_M9Bayonet_Knife"
+	},
+	{
+		"abr": "combattrousers(ddpm)",
+		"price": 290,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_CombatsDDPM"
+	},
+	{
+		"abr": "condorbattlebelt",
+		"price": 230,
+		"category": "Utility",
+		"defname": "RHApparel_CondorBattleBelt_Tan"
+	},
+	{
+		"abr": "condorreconchestrig",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_CondorRecon_ChestRig"
+	},
+	{
+		"abr": "cryeavschestrig(tan)",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_CryeAVSTan_ChestRig"
+	},
+	{
+		"abr": "cz805brena2",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_CZ805BrenA2_Rifle"
+	},
+	{
+		"abr": "ddm4v11",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DDM4V11_Rifle"
+	},
+	{
+		"abr": "ddtghostbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_DDTGhost_ODGreen"
+	},
+	{
+		"abr": "defender1.0portablegenerator",
+		"price": 375,
+		"category": "Misc",
+		"defname": "RH2_DEFENDER1_Generator"
+	},
+	{
+		"abr": "defender2bodyarmour",
+		"price": 467,
+		"category": "Armored",
+		"defname": "RNApparel_Defender2_Tan"
+	},
+	{
+		"abr": "deserteagle",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DesertEagle_Pistol"
+	},
+	{
+		"abr": "deserttechhti",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DesertTechHTI_AMR"
+	},
+	{
+		"abr": "deserttechsrs",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DesertTechSRS_DMR"
+	},
+	{
+		"abr": "designershirt",
+		"price": 221,
+		"category": "Skin",
+		"defname": "RNApparel_DesignerShirt_Boss"
+	},
+	{
+		"abr": "desklamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "RH2_DeskLamplight"
+	},
+	{
+		"abr": "detectivecoat",
+		"price": 367,
+		"category": "Outer",
+		"defname": "RNApparel_TrenchCoat_Detective"
+	},
+	{
+		"abr": "dewey2kwgenerator",
+		"price": 483,
+		"category": "Special",
+		"defname": "RH2_DEWEY2KW_Generator"
+	},
+	{
+		"abr": "dragonskinbodyarmour",
+		"price": 575,
+		"category": "Armored",
+		"defname": "RNApparel_PinnacleArmor_DragonSkin"
+	},
+	{
+		"abr": "dragunov",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DragunovSVD_DMR"
+	},
+	{
+		"abr": "eardefenders(peltoroptimeii)",
+		"price": 107,
+		"category": "Headgear",
+		"defname": "RNApparel_EarDefs_PeltorOptimeII"
+	},
+	{
+		"abr": "eod9bombsuit",
+		"price": 800,
+		"category": "Armored",
+		"defname": "RNApparel_MedEng_EOD9Suit"
+	},
+	{
+		"abr": "eod9ahelmet",
+		"price": 350,
+		"category": "Armored",
+		"defname": "RNApparel_MedEngHelmet_EOD9A"
+	},
+	{
+		"abr": "evsbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_ENVOVestSystem_Grey"
+	},
+	{
+		"abr": "exfil®ballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_EXFILBallisticHelmet_Tan"
+	},
+	{
+		"abr": "eyeprotection(siballisticmframe)",
+		"price": 91,
+		"category": "Eyes",
+		"defname": "RNApparel_EyePros_SIBallisticMFrame"
+	},
+	{
+		"abr": "f70hcballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_3MF70HighCut_Tan"
+	},
+	{
+		"abr": "facebandana",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "RNApparel_PUBG_Bandana"
+	},
+	{
+		"abr": "famasf1",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_FAMAS_Rifle"
+	},
+	{
+		"abr": "fandareslingbag",
+		"price": 208,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_FANDARESling"
+	},
+	{
+		"abr": "fastballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_OpsCoreFAST_Tan"
+	},
+	{
+		"abr": "fastbumpballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_OpsCoreFASTBUMP_Multicam"
+	},
+	{
+		"abr": "fastcarbonballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_OpsCoreFASTCarbon_Grey"
+	},
+	{
+		"abr": "fastpack",
+		"price": 500,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_FASTPack"
+	},
+	{
+		"abr": "fbberyl",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_FBBeryl_Rifle"
+	},
+	{
+		"abr": "fedorahat",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "RNApparel_FedoraHat_Generic"
+	},
+	{
+		"abr": "fellingaxe",
+		"price": 237,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Felling_Axe"
+	},
+	{
+		"abr": "fgm-148javelin",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "RNGun_FGM148Javelin_RocketLauncher"
+	},
+	{
+		"abr": "fieldcap",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "RNApparel_FieldCap_HelikonTex"
+	},
+	{
+		"abr": "fieldparka",
+		"price": 324,
+		"category": "Outer",
+		"defname": "RNApparel_FieldParka_Generic"
+	},
+	{
+		"abr": "fireaxe",
+		"price": 211,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Fire_Axe"
+	},
+	{
+		"abr": "firman3650generator",
+		"price": 483,
+		"category": "Special",
+		"defname": "RH2_FIRMAN3650_Generator"
+	},
+	{
+		"abr": "flightsuit",
+		"price": 383,
+		"category": "Skin",
+		"defname": "RNApparel_FlightSuit_Brandit"
+	},
+	{
+		"abr": "floodlight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "RH2_Floodlight_Big"
+	},
+	{
+		"abr": "fluxballistichelmet",
+		"price": 542,
+		"category": "Armored",
+		"defname": "RNApparel_FLUXBallisticHelmet_Raid"
+	},
+	{
+		"abr": "flyyecpcvbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_FlyyeFCPC_Multicam"
+	},
+	{
+		"abr": "fnf2000",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_F2000_Rifle"
+	},
+	{
+		"abr": "fnfal",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_FNFAL_Rifle"
+	},
+	{
+		"abr": "fnfive-seven",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_FiveSeven_Pistol"
+	},
+	{
+		"abr": "fnmag",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "RNGun_FNMAG_GPMG"
+	},
+	{
+		"abr": "fnp90",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "RNGun_P90_PDW"
+	},
+	{
+		"abr": "foldingchair",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "RH2_FoldingChair"
+	},
+	{
+		"abr": "foldingtable(1x2)",
+		"price": 71,
+		"category": "Furniture",
+		"defname": "RH2_FoldingTable1x2c"
+	},
+	{
+		"abr": "footlocker",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "RH2_ClassicFootlocker"
+	},
+	{
+		"abr": "g28",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_G28_DMR"
+	},
+	{
+		"abr": "g36k",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_G36K_Rifle"
+	},
+	{
+		"abr": "g3a2",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_G3A2_Rifle"
+	},
+	{
+		"abr": "galac-tacbodyarmour",
+		"price": 558,
+		"category": "Armored",
+		"defname": "RNApparel_GalacTecBodyArmour_Tan"
+	},
+	{
+		"abr": "galac-tachelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_GalacTacFAST_Tan"
+	},
+	{
+		"abr": "glock17",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Glock17_Pistol"
+	},
+	{
+		"abr": "glock18",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Glock18_Pistol"
+	},
+	{
+		"abr": "glock34combatmaster",
+		"price": 285,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Glock34CombatMaster_Pistol"
+	},
+	{
+		"abr": "goalpost",
+		"price": 134,
+		"category": "Recreation",
+		"defname": "RH2_FootballGoalpost"
+	},
+	{
+		"abr": "golmagnum",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "RNGun_GOLMagnum_Sniper"
+	},
+	{
+		"abr": "gootiumcanvasrucksack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_Gootium"
+	},
+	{
+		"abr": "gorka3jacket",
+		"price": 268,
+		"category": "Skin",
+		"defname": "RNApparel_Jacket_GORKA3Jacket"
+	},
+	{
+		"abr": "gorka3pants",
+		"price": 315,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_GORKA3Pants"
+	},
+	{
+		"abr": "gp-5gasmask",
+		"price": 467,
+		"category": "Headgear",
+		"defname": "RNApparel_Gasmask_GP5Soviet"
+	},
+	{
+		"abr": "handaxe(roughneck)",
+		"price": 214,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Roughneck_Handaxe"
+	},
+	{
+		"abr": "hawaiianshirt",
+		"price": 183,
+		"category": "Skin",
+		"defname": "RNApparel_HawaiianShirt_Generic"
+	},
+	{
+		"abr": "headbandana",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "RNApparel_ColdWar_Bandana"
+	},
+	{
+		"abr": "headscarf",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "RNApparel_Shemagh_Bandana"
+	},
+	{
+		"abr": "hellokittybackpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_HelloKitty"
+	},
+	{
+		"abr": "hk416",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_HK416_Rifle"
+	},
+	{
+		"abr": "hk69a1",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "RNGun_HK69A1_GrenadeLauncher"
+	},
+	{
+		"abr": "holmofloorlamp",
+		"price": 59,
+		"category": "Furniture",
+		"defname": "RH2_HolmoFloorLamp"
+	},
+	{
+		"abr": "hoodiejacket",
+		"price": 215,
+		"category": "Skin",
+		"defname": "RNApparel_Hoodie_FruitOfTheLoom"
+	},
+	{
+		"abr": "iceaxe(dmmfly)",
+		"price": 214,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_DMMFly_IceAxe"
+	},
+	{
+		"abr": "iotvgen2bodyarmour",
+		"price": 483,
+		"category": "Armored",
+		"defname": "RNApparel_IOTV_UCP"
+	},
+	{
+		"abr": "izh-43double-barreled",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_IZh43_Shotgun"
+	},
+	{
+		"abr": "jeans",
+		"price": 304,
+		"category": "Armored",
+		"defname": "RNApparel_Jeans_Generic"
+	},
+	{
+		"abr": "juggernauthelmet",
+		"price": 575,
+		"category": "Armored",
+		"defname": "RNApparel_Helmet_Juggernaut"
+	},
+	{
+		"abr": "juggernautsuit",
+		"price": 958,
+		"category": "Armored",
+		"defname": "RNApparel_MedEng_JuggernautSuit"
+	},
+	{
+		"abr": "junglehat",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "RNApparel_BoonieHat_MILTEC"
+	},
+	{
+		"abr": "karambit",
+		"price": 106,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Karambit_Knife"
+	},
+	{
+		"abr": "katana(fudoshin)",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Fudoshin_Katana"
+	},
+	{
+		"abr": "katana(hanzo)",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Hanzo_Katana"
+	},
+	{
+		"abr": "katana(mizutori)",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Mizutori_Katana"
+	},
+	{
+		"abr": "kebpants",
+		"price": 298,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_FjallravenKeb"
+	},
+	{
+		"abr": "krissvector",
+		"price": 533,
+		"category": "Ranged weapons",
+		"defname": "RNGun_KrissVector_PDW"
+	},
+	{
+		"abr": "ksp58b",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Ksp58B_GPMG"
+	},
+	{
+		"abr": "kulamongoosemilitaryvest",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_KulaMongoose_ChestRig"
+	},
+	{
+		"abr": "l129a1",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_L129A1_DMR"
+	},
+	{
+		"abr": "l96a1",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "RNGun_L96A1_Sniper"
+	},
+	{
+		"abr": "laptopcommsconsole",
+		"price": 328,
+		"category": "Misc",
+		"defname": "RH2_LaptopCommsConsole"
+	},
+	{
+		"abr": "lbtg3bodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_LBTG3_Multicam"
+	},
+	{
+		"abr": "lbtjumppack",
+		"price": 583,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_LBT0101JJ"
+	},
+	{
+		"abr": "lbtmpcbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_LBTMPC_Tan"
+	},
+	{
+		"abr": "leeenfieldmkiii",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "RNGun_LeeEnfield_BoltAction"
+	},
+	{
+		"abr": "level1backpack",
+		"price": 208,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_Level1PUBG"
+	},
+	{
+		"abr": "loungearmchair",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "RH2_LoungeArmchair"
+	},
+	{
+		"abr": "lvoa-c",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_LVOAC_Rifle"
+	},
+	{
+		"abr": "lwhhelmet(dmarpat)",
+		"price": 213,
+		"category": "Armored",
+		"defname": "RNApparel_LWH_DMARPAT"
+	},
+	{
+		"abr": "lzsh2dtmhelmet",
+		"price": 542,
+		"category": "Armored",
+		"defname": "RNApparel_LZSH2DTM_Olive"
+	},
+	{
+		"abr": "m1gasmask",
+		"price": 425,
+		"category": "Headgear",
+		"defname": "RNApparel_Gasmask_M1Yugoslavian"
+	},
+	{
+		"abr": "m1helmet",
+		"price": 195,
+		"category": "Headgear",
+		"defname": "RNApparel_M1Helmet_Vietnam"
+	},
+	{
+		"abr": "m1014",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M1014_Shotgun"
+	},
+	{
+		"abr": "m134minigun",
+		"price": 933,
+		"category": "Security",
+		"defname": "RN2Gun_M134Minigun_MG"
+	},
+	{
+		"abr": "m14dmr",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M14_DMR"
+	},
+	{
+		"abr": "m16a2",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M16A2_Rifle"
+	},
+	{
+		"abr": "m18a1claymore",
+		"price": 78,
+		"category": "Security",
+		"defname": "RN2Explosive_M18Claymore"
+	},
+	{
+		"abr": "m1911a1",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M1911_Pistol"
+	},
+	{
+		"abr": "m2browning",
+		"price": 733,
+		"category": "Security",
+		"defname": "RN2Gun_M2Browning_MG"
+	},
+	{
+		"abr": "m2mortar",
+		"price": 608,
+		"category": "Security",
+		"defname": "RN2Turret_M2Mortar"
+	},
+	{
+		"abr": "m200intervention",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M200Intervention_AMR"
+	},
+	{
+		"abr": "m24",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M24A2_Sniper"
+	},
+	{
+		"abr": "m249",
+		"price": 650,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M249_LMG"
+	},
+	{
+		"abr": "m40a5",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M40A5_Sniper"
+	},
+	{
+		"abr": "m49a2high-explosiveshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "RN2Shell_60mmShell_HighExplosive"
+	},
+	{
+		"abr": "m4a1",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M4A1_Rifle"
+	},
+	{
+		"abr": "m56webbing",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_M56Webbing_Vietnam"
+	},
+	{
+		"abr": "m60",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M60_GPMG"
+	},
+	{
+		"abr": "m60",
+		"price": 625,
+		"category": "Security",
+		"defname": "RN2Gun_M60Mounted_MG"
+	},
+	{
+		"abr": "m72law",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M72LAW_RocketLauncher"
+	},
+	{
+		"abr": "m79grenadelauncher",
+		"price": 1417,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M79_GrenadeLauncher"
+	},
+	{
+		"abr": "m82a1",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M82A1_AMR"
+	},
+	{
+		"abr": "m84stungrenade",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "RNThrown_M84Stun_Grenade"
+	},
+	{
+		"abr": "m9a1",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_M9A1_Pistol"
+	},
+	{
+		"abr": "mac-10",
+		"price": 315,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MAC11_SMG"
+	},
+	{
+		"abr": "machete(gerber)",
+		"price": 246,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_GerberGator_Machete"
+	},
+	{
+		"abr": "machete(kukri)",
+		"price": 262,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Kukri_Machete"
+	},
+	{
+		"abr": "machete(spetsnaz)",
+		"price": 199,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Spetsnaz_Machete"
+	},
+	{
+		"abr": "machete(tops)",
+		"price": 230,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_TOPS_Machete"
+	},
+	{
+		"abr": "makarov",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Makarov_Pistol"
+	},
+	{
+		"abr": "mannlicherultralight",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MannlicherUltraLight_Sniper"
+	},
+	{
+		"abr": "mannlicher–schönauer",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MannlicherSchoenauer_Sniper"
+	},
+	{
+		"abr": "maxpeditionbattlebelt",
+		"price": 230,
+		"category": "Utility",
+		"defname": "RHApparel_MaxpeditionBattleBelt_Olive"
+	},
+	{
+		"abr": "mbcfantombodyarmour",
+		"price": 425,
+		"category": "Armored",
+		"defname": "RNApparel_MBCFantom_Black"
+	},
+	{
+		"abr": "md97",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MD97_Rifle"
+	},
+	{
+		"abr": "merlinbackpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_MountainWarehouseMerlin"
+	},
+	{
+		"abr": "mg42",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MG42_GPMG"
+	},
+	{
+		"abr": "michtc-2000helmet",
+		"price": 542,
+		"category": "Armored",
+		"defname": "RNApparel_MICH2000_AmericanSniper"
+	},
+	{
+		"abr": "michtc-2000helmet(cag)",
+		"price": 542,
+		"category": "Armored",
+		"defname": "RNApparel_MICH2000_CAG"
+	},
+	{
+		"abr": "militaryberet",
+		"price": 141,
+		"category": "Headgear",
+		"defname": "RNApparel_Beret_RUMilitary"
+	},
+	{
+		"abr": "militarycratedresser",
+		"price": 212,
+		"category": "Furniture",
+		"defname": "RH2_MilitaryCrateDresser"
+	},
+	{
+		"abr": "miltecchestrig",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_MilTec_ChestRig"
+	},
+	{
+		"abr": "minifloodlight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "RH2_MiniFloodlight"
+	},
+	{
+		"abr": "missionboard",
+		"price": 375,
+		"category": "Special",
+		"defname": "RH2_MissionBoard"
+	},
+	{
+		"abr": "mk14mod0",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Mk14Mod0_DMR"
+	},
+	{
+		"abr": "mk19grenadelauncher",
+		"price": 800,
+		"category": "Security",
+		"defname": "RN2Gun_MK19_GL"
+	},
+	{
+		"abr": "mk6helmet",
+		"price": 375,
+		"category": "Armored",
+		"defname": "RNApparel_Mk6BallisticHelmet_Olive"
+	},
+	{
+		"abr": "mk6helmet(ddpm)",
+		"price": 375,
+		"category": "Armored",
+		"defname": "RNApparel_Mk6BallisticHelmet_DDPM"
+	},
+	{
+		"abr": "mk6ahelmet",
+		"price": 408,
+		"category": "Armored",
+		"defname": "RNApparel_Mk6ABallisticHelmet_Black"
+	},
+	{
+		"abr": "mk7helmet",
+		"price": 542,
+		"category": "Armored",
+		"defname": "RNApparel_Mk7BallisticHelmet_Tan"
+	},
+	{
+		"abr": "model1897",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Model1897_Shotgun"
+	},
+	{
+		"abr": "model870mcs",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Remington870MCS_Shotgun"
+	},
+	{
+		"abr": "modernendtable",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "RH2_LampEndTable"
+	},
+	{
+		"abr": "molle2rucksack(ucp)",
+		"price": 667,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_MOLLE2UCP"
+	},
+	{
+		"abr": "mossberg500",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Mossberg500_Shotgun"
+	},
+	{
+		"abr": "motherlodedaysack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_Motherlode"
+	},
+	{
+		"abr": "mp-412rex",
+		"price": 226,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MP412REX_Revolver"
+	},
+	{
+		"abr": "mp5a2",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MP5A2_SMG"
+	},
+	{
+		"abr": "mp7a1",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "RNGun_MP7A1_PDW"
+	},
+	{
+		"abr": "msamilleniumgasmask",
+		"price": 425,
+		"category": "Headgear",
+		"defname": "RNApparel_Gasmask_MSAMillenium"
+	},
+	{
+		"abr": "mtvbodyarmour",
+		"price": 475,
+		"category": "Armored",
+		"defname": "RNApparel_MTV_Tan"
+	},
+	{
+		"abr": "naotakgearslinger",
+		"price": 208,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_Naotak"
+	},
+	{
+		"abr": "nerftarget",
+		"price": 84,
+		"category": "Recreation",
+		"defname": "RH2_NERFTarget"
+	},
+	{
+		"abr": "nitecorebp20pack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_NitecoreBP20Pack"
+	},
+	{
+		"abr": "nlaw",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "RNGun_NLAW_RocketLauncher"
+	},
+	{
+		"abr": "norweiganshirt",
+		"price": 290,
+		"category": "Skin",
+		"defname": "RNApparel_NorweiganShirt_Pullover"
+	},
+	{
+		"abr": "officerbed",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "RH2_OfficerDoubleBed"
+	},
+	{
+		"abr": "ospreymk3bodyarmour",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_OspreyMk3_DDPM"
+	},
+	{
+		"abr": "ots-03svu",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SVU_DMR"
+	},
+	{
+		"abr": "otvbodyarmour",
+		"price": 475,
+		"category": "Armored",
+		"defname": "RNApparel_OTV_Tan"
+	},
+	{
+		"abr": "outdoormasterhikingpack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_OutdoorMaster"
+	},
+	{
+		"abr": "overcoat",
+		"price": 367,
+		"category": "Outer",
+		"defname": "RNApparel_Overcoat_Generic"
+	},
+	{
+		"abr": "p-1944gasmask",
+		"price": 425,
+		"category": "Headgear",
+		"defname": "RNApparel_Gasmask_P1944WWI"
+	},
+	{
+		"abr": "p226",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_P226_Pistol"
+	},
+	{
+		"abr": "p320",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_P320_Pistol"
+	},
+	{
+		"abr": "pacalvcbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_PACALVC_Tan"
+	},
+	{
+		"abr": "panasoniclcdtv",
+		"price": 1667,
+		"category": "Recreation",
+		"defname": "RH2_Panasonic_LCDTelevision"
+	},
+	{
+		"abr": "panasonictelevision",
+		"price": 708,
+		"category": "Recreation",
+		"defname": "RH2_Panasonic_Television"
+	},
+	{
+		"abr": "pancorjackhammer",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PancorJackhammer_Shotgun"
+	},
+	{
+		"abr": "pas101ballistichelmet",
+		"price": 213,
+		"category": "Armored",
+		"defname": "RNApparel_VestGuardPASGT_Black"
+	},
+	{
+		"abr": "pas101ballistichelmet(navy)",
+		"price": 213,
+		"category": "Armored",
+		"defname": "RNApparel_VestGuardPASGT_PRESS"
+	},
+	{
+		"abr": "pasgtballistichelmet",
+		"price": 232,
+		"category": "Armored",
+		"defname": "RNApparel_PASGT_Tan"
+	},
+	{
+		"abr": "pasgtballistichelmet(envo)",
+		"price": 213,
+		"category": "Armored",
+		"defname": "RNApparel_PASGT_ENVO"
+	},
+	{
+		"abr": "pasgtbodyarmour",
+		"price": 458,
+		"category": "Armored",
+		"defname": "RNApparel_PASGTVest_Olive"
+	},
+	{
+		"abr": "pilgrimpants",
+		"price": 298,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_HelikonPilgrim"
+	},
+	{
+		"abr": "pkm",
+		"price": 700,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PKM_GPMG"
+	},
+	{
+		"abr": "pointblankaspcbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_PointBlankASPC_Black"
+	},
+	{
+		"abr": "pointblankfas-tcbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_PointBlankFASTC_CoyoteBrown"
+	},
+	{
+		"abr": "poloshirt",
+		"price": 183,
+		"category": "Skin",
+		"defname": "RNApparel_PoloShirt_511Tactical"
+	},
+	{
+		"abr": "pp-19bizon",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PP19_SMG"
+	},
+	{
+		"abr": "ppsh-41",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PPSh41_SMG"
+	},
+	{
+		"abr": "protecprime(pizzatime)",
+		"price": 213,
+		"category": "Headgear",
+		"defname": "RNApparel_ProTecPrime_PizzaTime"
+	},
+	{
+		"abr": "psg-1",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PSG1_DMR"
+	},
+	{
+		"abr": "psl54",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PSL54_DMR"
+	},
+	{
+		"abr": "pt92sf",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_PT92SF_Pistol"
+	},
+	{
+		"abr": "pursuitpants",
+		"price": 282,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_BlackhawkPursuit"
+	},
+	{
+		"abr": "pursuitshirt",
+		"price": 183,
+		"category": "Skin",
+		"defname": "RNApparel_Shirt_BlackhawkPursuit"
+	},
+	{
+		"abr": "pythonpolicebelt",
+		"price": 230,
+		"category": "Utility",
+		"defname": "RHApparel_TexShoemakerPoliceBelt_Python"
+	},
+	{
+		"abr": "r1para",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "RNGun_R1Para_Rifle"
+	},
+	{
+		"abr": "radiotradebeacon",
+		"price": 252,
+		"category": "Misc",
+		"defname": "RH_RadioTradeBeacon"
+	},
+	{
+		"abr": "rapidassaultshirt",
+		"price": 250,
+		"category": "Skin",
+		"defname": "RNApparel_UBACShirt_511RapidAssault"
+	},
+	{
+		"abr": "raven2500backpack",
+		"price": 500,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_KeltyRaven2500Pack"
+	},
+	{
+		"abr": "riotsuit",
+		"price": 600,
+		"category": "Armored",
+		"defname": "RNApparel_RiotSuit_SecPro"
+	},
+	{
+		"abr": "romatfal",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "RNGun_RomatFAL_Rifle"
+	},
+	{
+		"abr": "rpd",
+		"price": 733,
+		"category": "Ranged weapons",
+		"defname": "RNGun_RPD_LMG"
+	},
+	{
+		"abr": "rpg-7",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "RNGun_RPG7_RocketLauncher"
+	},
+	{
+		"abr": "rpk",
+		"price": 733,
+		"category": "Ranged weapons",
+		"defname": "RNGun_RPK_LMG"
+	},
+	{
+		"abr": "rrvchestrig",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_RRV_ChestRig"
+	},
+	{
+		"abr": "rush12backpack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_RUSH12BP"
+	},
+	{
+		"abr": "rush24backpack",
+		"price": 500,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_RUSH24BP"
+	},
+	{
+		"abr": "s&wmodel36",
+		"price": 226,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Model36_Revolver"
+	},
+	{
+		"abr": "s10nbcrespirator",
+		"price": 425,
+		"category": "Headgear",
+		"defname": "RNApparel_Gasmask_S10NBC"
+	},
+	{
+		"abr": "s6nbcrespirator",
+		"price": 425,
+		"category": "Headgear",
+		"defname": "RNApparel_Gasmask_S6NBC"
+	},
+	{
+		"abr": "sa80",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SA80A2_Rifle"
+	},
+	{
+		"abr": "safarilandg17policebelt",
+		"price": 230,
+		"category": "Utility",
+		"defname": "RHApparel_SafarilandPoliceBelt_Glock"
+	},
+	{
+		"abr": "safarilandm9policebelt",
+		"price": 230,
+		"category": "Utility",
+		"defname": "RHApparel_SafarilandPoliceBelt_Beretta"
+	},
+	{
+		"abr": "saiga-12",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Saiga12_Shotgun"
+	},
+	{
+		"abr": "secproriothelmet",
+		"price": 458,
+		"category": "Armored",
+		"defname": "RNApparel_SecProHelmet_Riot"
+	},
+	{
+		"abr": "sentrygun",
+		"price": 817,
+		"category": "Security",
+		"defname": "RN2Turret_SentryGun"
+	},
+	{
+		"abr": "sf151ballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_VestGuardFAST_Black"
+	},
+	{
+		"abr": "skorpionvz.61",
+		"price": 272,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SkorpionVZ61_SMG"
+	},
+	{
+		"abr": "sksdmr",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SKSModern_DMR"
+	},
+	{
+		"abr": "skullcap",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "RNApparel_Beanie_Skullcap"
+	},
+	{
+		"abr": "soflam",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "RN_SOFLAM_AirSupport"
+	},
+	{
+		"abr": "softshelljacket",
+		"price": 268,
+		"category": "Skin",
+		"defname": "RNApparel_TacticalJacket_TACVASEN"
+	},
+	{
+		"abr": "spartanmarine",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SpartanMarine_Shotgun"
+	},
+	{
+		"abr": "spas-12",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SPAS12_Shotgun"
+	},
+	{
+		"abr": "spatha",
+		"price": 310,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Maximus_Spatha"
+	},
+	{
+		"abr": "splavm23militaryvest",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_M23_ChestRig"
+	},
+	{
+		"abr": "sti2011combatmaster",
+		"price": 285,
+		"category": "Ranged weapons",
+		"defname": "RNGun_STI2011CombatMaster_Pistol"
+	},
+	{
+		"abr": "stk100",
+		"price": 219,
+		"category": "Ranged weapons",
+		"defname": "RNGun_STK100_Pistol"
+	},
+	{
+		"abr": "stoegercoachgun",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RNGun_StoegerCoachGun_Shotgun"
+	},
+	{
+		"abr": "strykemulticampants",
+		"price": 282,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_511StrykeMulticam"
+	},
+	{
+		"abr": "strykepants",
+		"price": 282,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_511Stryke"
+	},
+	{
+		"abr": "stsh-81helmet",
+		"price": 231,
+		"category": "Armored",
+		"defname": "RNApparel_STSh81_Helmet"
+	},
+	{
+		"abr": "studentbackpack",
+		"price": 208,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_StudentBackpack"
+	},
+	{
+		"abr": "suedejacket",
+		"price": 331,
+		"category": "Outer",
+		"defname": "RNApparel_SuedeJacket_Generic"
+	},
+	{
+		"abr": "suitjacket",
+		"price": 331,
+		"category": "Outer",
+		"defname": "RNApparel_SuitJacket_Generic"
+	},
+	{
+		"abr": "suittrousers",
+		"price": 215,
+		"category": "Skin",
+		"defname": "RNApparel_Pants_SuitBrioni"
+	},
+	{
+		"abr": "sunglasses(ray-bansaviator)",
+		"price": 74,
+		"category": "Eyes",
+		"defname": "RNApparel_EyePros_RB3025AviatorGlasses"
+	},
+	{
+		"abr": "sunglasses(ray-banspredator2)",
+		"price": 74,
+		"category": "Eyes",
+		"defname": "RNApparel_EyePros_TerminatorGlasses"
+	},
+	{
+		"abr": "superbeltutilityrig",
+		"price": 168,
+		"category": "Utility",
+		"defname": "RHApparel_SuperBelt_Tan"
+	},
+	{
+		"abr": "survivalaxe(gerber)",
+		"price": 214,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_GerberSurvival_Axe"
+	},
+	{
+		"abr": "survivalknife(firstblood)",
+		"price": 137,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_FirstBlood_Knife"
+	},
+	{
+		"abr": "survivalknife(gerber)",
+		"price": 104,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_GerberSurvival_Knife"
+	},
+	{
+		"abr": "survivorpants",
+		"price": 304,
+		"category": "Armored",
+		"defname": "RNApparel_Pants_BearGryllsSurvivor"
+	},
+	{
+		"abr": "sv-98",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SV98_Sniper"
+	},
+	{
+		"abr": "sword(zkiller)",
+		"price": 230,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_ZKiller_Sword"
+	},
+	{
+		"abr": "synergy16backpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_WENGERSyngery"
+	},
+	{
+		"abr": "tactixhalf-daybackpack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_TactixHalfday"
+	},
+	{
+		"abr": "tanktop",
+		"price": 183,
+		"category": "Skin",
+		"defname": "RNApparel_TankTop_Generic"
+	},
+	{
+		"abr": "tanto",
+		"price": 128,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Tanto_Sword"
+	},
+	{
+		"abr": "tar-21",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_TAR-21_Rifle"
+	},
+	{
+		"abr": "tarpbackpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_TarpBackpack"
+	},
+	{
+		"abr": "terra65rucksack",
+		"price": 667,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_NorthFaceTerra65L"
+	},
+	{
+		"abr": "thompsonsmg",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "RNGun_ThompsonSubmachineGun_SMG"
+	},
+	{
+		"abr": "tomahawk(gerber)",
+		"price": 214,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Gerber_Tomahawk"
+	},
+	{
+		"abr": "tomahawk(usmc)",
+		"price": 214,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_USMC_Tomahawk"
+	},
+	{
+		"abr": "tomahawkpack",
+		"price": 333,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_Tomahawk"
+	},
+	{
+		"abr": "tor-dballistichelmet",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_UaRmsTORD_Tan"
+	},
+	{
+		"abr": "trashcan",
+		"price": 36,
+		"category": "Misc",
+		"defname": "RH2_Trashcan_Office"
+	},
+	{
+		"abr": "trenchcoat",
+		"price": 327,
+		"category": "Armored",
+		"defname": "RHApparel_PUTrenchCoat_PUBG"
+	},
+	{
+		"abr": "trenchcoathood",
+		"price": 144,
+		"category": "Headgear",
+		"defname": "RNApparel_TrenchCoatHood_PUBG"
+	},
+	{
+		"abr": "type56",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Type56_Rifle"
+	},
+	{
+		"abr": "type56webbing",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_Type56Webbing_ColdWar"
+	},
+	{
+		"abr": "type63webbing",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_Type63Webbing_ColdWar"
+	},
+	{
+		"abr": "type81lmg",
+		"price": 733,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Type81_LMG"
+	},
+	{
+		"abr": "typecq",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "RNGun_TypeCQ_Rifle"
+	},
+	{
+		"abr": "ubac(ddpm)",
+		"price": 250,
+		"category": "Skin",
+		"defname": "RNApparel_UBACShirt_DDPM"
+	},
+	{
+		"abr": "ump45",
+		"price": 433,
+		"category": "Ranged weapons",
+		"defname": "RNGun_UMP45_SMG"
+	},
+	{
+		"abr": "usas-12",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "RNGun_USAS12_Shotgun"
+	},
+	{
+		"abr": "usmcchestrig",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_USMC_ChestRig"
+	},
+	{
+		"abr": "usp45",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_USP45_Pistol"
+	},
+	{
+		"abr": "uzi",
+		"price": 315,
+		"category": "Ranged weapons",
+		"defname": "RNGun_Uzi_SMG"
+	},
+	{
+		"abr": "vestjacket",
+		"price": 367,
+		"category": "Outer",
+		"defname": "RNApparel_VestJacket_Generic"
+	},
+	{
+		"abr": "vestguardct101bodyarmour",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_VestguardCT101_Navy"
+	},
+	{
+		"abr": "vestguardot103bodyarmour",
+		"price": 500,
+		"category": "Armored",
+		"defname": "RNApparel_VestguardOT103_Navy"
+	},
+	{
+		"abr": "vestguardqra101bodyarmour",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_VestguardQRA_Black"
+	},
+	{
+		"abr": "vestguardqrx101bodyarmour",
+		"price": 442,
+		"category": "Armored",
+		"defname": "RNApparel_VestguardQRX_Black"
+	},
+	{
+		"abr": "vigilantecoat",
+		"price": 327,
+		"category": "Armored",
+		"defname": "RHApparel_TrenchCoat_Vigilante"
+	},
+	{
+		"abr": "vintageparka",
+		"price": 324,
+		"category": "Outer",
+		"defname": "RNApparel_VintageParka_Generic"
+	},
+	{
+		"abr": "viperlazersopcbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_ViperLazerSOPC_Tan"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "RNGun_VSSVintorez_DMR"
+	},
+	{
+		"abr": "vtacbattlebelt",
+		"price": 230,
+		"category": "Utility",
+		"defname": "RHApparel_VTACBattleBelt_Tan"
+	},
+	{
+		"abr": "vulcanivbergen",
+		"price": 667,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_BerghausVulcanIV"
+	},
+	{
+		"abr": "wa2000",
+		"price": 600,
+		"category": "Ranged weapons",
+		"defname": "RNGun_WA2000_DMR"
+	},
+	{
+		"abr": "wardrobe",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "RH2_DoubleWardrobe"
+	},
+	{
+		"abr": "warriordcsbodyarmour",
+		"price": 400,
+		"category": "Armored",
+		"defname": "RNApparel_WarriorDCS_ODGreen"
+	},
+	{
+		"abr": "warriorfalconchestrig",
+		"price": 233,
+		"category": "Utility",
+		"defname": "RHApparel_WarriorFalcon_ChestRig"
+	},
+	{
+		"abr": "warriorhelmetcarrierpack",
+		"price": 417,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_WarriorHelmetCarrier"
+	},
+	{
+		"abr": "warriorpegasusbackpack",
+		"price": 500,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_WarriorPegasus"
+	},
+	{
+		"abr": "wasingpack",
+		"price": 125,
+		"category": "Utility",
+		"defname": "RNApparel_Backpack_Wasing"
+	},
+	{
+		"abr": "wastelandcoat",
+		"price": 327,
+		"category": "Armored",
+		"defname": "RHApparel_TrenchCoat_PUBG"
+	},
+	{
+		"abr": "xbox360gamingconsole",
+		"price": 1667,
+		"category": "Recreation",
+		"defname": "RH2_Xbox360_GameConsole"
+	},
+	{
+		"abr": "xd-m",
+		"price": 285,
+		"category": "Ranged weapons",
+		"defname": "RNGun_SpringfieldXD_Pistol"
+	},
+	{
+		"abr": "yanmaodao",
+		"price": 667,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Yanmaodao_Saber"
+	},
+	{
+		"abr": "ym-1bapmine",
+		"price": 68,
+		"category": "Security",
+		"defname": "RN2Explosive_YM1B_APMine"
+	},
 	],
-	"total": 7251
+	"total": 7611
 }
