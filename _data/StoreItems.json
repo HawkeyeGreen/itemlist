@@ -31705,12 +31705,6 @@
 		"defname": "DRKGun_AK112AR"
 	},
 	{
-		"abr": "alastair",
-		"price": 15,
-		"category": "Foods",
-		"defname": "RG-TF_Alastair"
-	},
-	{
 		"abr": "allosaurus",
 		"price": 2500,
 		"category": "Animals",
@@ -45660,6 +45654,1116 @@
 		"category": "Security",
 		"defname": "RN2Explosive_YM1B_APMine"
 	},
+	{
+		"abr": "archotechrepairhub",
+		"price": 4667,
+		"category": "Special",
+		"defname": "RH_RepairHub_Archotech"
+	},
+	{
+		"abr": "artificialantigravityunit",
+		"price": 333,
+		"category": "Android body parts",
+		"defname": "VREA_HanarAntiGravityUnit"
+	},
+	{
+		"abr": "artificialfrontmesogleafilter",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarFrontMesogleaFilter"
+	},
+	{
+		"abr": "artificialgastrovascularcavity",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarGastrovascularCavity"
+	},
+	{
+		"abr": "artificialhearingsensor",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarHearingSensor"
+	},
+	{
+		"abr": "artificialleftfrontinsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarLeftFrontInsideTentacle"
+	},
+	{
+		"abr": "artificialleftfrontoutsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarLeftFrontOutsideTentacle"
+	},
+	{
+		"abr": "artificialleftmandible",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_LeftMandible"
+	},
+	{
+		"abr": "artificialleftmiddleoutsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarLeftMiddleOutsideTentacle"
+	},
+	{
+		"abr": "artificialleftrearinsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarLeftRearInsideTentacle"
+	},
+	{
+		"abr": "artificialleftrearoutsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarLeftRearOutsideTentacle"
+	},
+	{
+		"abr": "artificialmesogleacharger",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarMesogleaCharger"
+	},
+	{
+		"abr": "artificialneuroconductivefluid",
+		"price": 533,
+		"category": "Android body parts",
+		"defname": "VREA_NeuroconductiveFluid"
+	},
+	{
+		"abr": "artificialorifice",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarOrifice"
+	},
+	{
+		"abr": "artificialoxygenabsorber",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarOxygenAbsorber"
+	},
+	{
+		"abr": "artificialrearmesogleafilter",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarRearMesogleaFilter"
+	},
+	{
+		"abr": "artificialrightfrontinsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarRightFrontInsideTentacle"
+	},
+	{
+		"abr": "artificialrightfrontoutsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarRightFrontOutsideTentacle"
+	},
+	{
+		"abr": "artificialrightmandible",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_RightMandible"
+	},
+	{
+		"abr": "artificialrightmiddleoutsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarRightMiddleOutsideTentacle"
+	},
+	{
+		"abr": "artificialrightrearinsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarRightRearInsideTentacle"
+	},
+	{
+		"abr": "artificialrightrearoutsidetentacle",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarRightRearOutsideTentacle"
+	},
+	{
+		"abr": "artificialsightsensor",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarSightSensor"
+	},
+	{
+		"abr": "artificialspeechprojector",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_HanarSpeechProjector"
+	},
+	{
+		"abr": "artificialunderhead",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_HanarUnderhead"
+	},
+	{
+		"abr": "asari",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "AlienAsari"
+	},
+	{
+		"abr": "asarileather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Asari"
+	},
+	{
+		"abr": "asarimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienAsari"
+	},
+	{
+		"abr": "batarian",
+		"price": 2167,
+		"category": "Animal",
+		"defname": "AlienBatarian"
+	},
+	{
+		"abr": "batarianleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Batarian"
+	},
+	{
+		"abr": "batarianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienBatarian"
+	},
+	{
+		"abr": "brutemeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperBrute"
+	},
+	{
+		"abr": "cannibalmeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperCannibal"
+	},
+	{
+		"abr": "drell",
+		"price": 2833,
+		"category": "Animal",
+		"defname": "AlienDrell"
+	},
+	{
+		"abr": "drellleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Drell"
+	},
+	{
+		"abr": "drellmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienDrell"
+	},
+	{
+		"abr": "flaregun",
+		"price": 492,
+		"category": "Ranged weapons",
+		"defname": "FlareGun_Truey"
+	},
+	{
+		"abr": "hanar",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AlienHanar"
+	},
+	{
+		"abr": "hanarantigravityunit",
+		"price": 3333,
+		"category": "Natural",
+		"defname": "HanarAntiGravityUnit"
+	},
+	{
+		"abr": "hanarleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Hanar"
+	},
+	{
+		"abr": "hanarmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienHanar"
+	},
+	{
+		"abr": "hanarmesogleafilter",
+		"price": 833,
+		"category": "Natural",
+		"defname": "HanarMesogleaFilter"
+	},
+	{
+		"abr": "hanarsightsensor",
+		"price": 833,
+		"category": "Natural",
+		"defname": "HanarSightSensor"
+	},
+	{
+		"abr": "hanartentacle",
+		"price": 667,
+		"category": "Natural",
+		"defname": "HanarTentacle"
+	},
+	{
+		"abr": "huskmeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperHusk"
+	},
+	{
+		"abr": "krogan",
+		"price": 4333,
+		"category": "Animal",
+		"defname": "AlienKrogan"
+	},
+	{
+		"abr": "kroganleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Krogan"
+	},
+	{
+		"abr": "kroganmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienKrogan"
+	},
+	{
+		"abr": "maraudermeat",
+		"price": 0,
+		"category": "Meat",
+		"defname": "Meat_ReaperMarauder"
+	},
+	{
+		"abr": "quarian",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "AlienQuarian"
+	},
+	{
+		"abr": "quarianleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Quarian"
+	},
+	{
+		"abr": "quarianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienQuarian"
+	},
+	{
+		"abr": "randomflaregun",
+		"price": 417,
+		"category": "Ranged weapons",
+		"defname": "FlareGun_Random"
+	},
+	{
+		"abr": "repairbelt",
+		"price": 1208,
+		"category": "Utility",
+		"defname": "RH_Apparel_RepairBelt"
+	},
+	{
+		"abr": "repairhubimplant",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "RepairHubImplant"
+	},
+	{
+		"abr": "salarian",
+		"price": 3167,
+		"category": "Animal",
+		"defname": "AlienSalarian"
+	},
+	{
+		"abr": "salarianleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Salarian"
+	},
+	{
+		"abr": "salarianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienSalarian"
+	},
+	{
+		"abr": "smallrepairhub",
+		"price": 3983,
+		"category": "Security",
+		"defname": "RH_RepairHub_Small"
+	},
+	{
+		"abr": "sweaterforhanar",
+		"price": 283,
+		"category": "Headgear",
+		"defname": "Apparel_HanarSweater"
+	},
+	{
+		"abr": "turian",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "AlienTurian"
+	},
+	{
+		"abr": "turianleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Turian"
+	},
+	{
+		"abr": "turianmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienTurian"
+	},
+	{
+		"abr": "up-armoredenvirosuit",
+		"price": 792,
+		"category": "Armored",
+		"defname": "Apparel_ArmoredExosuit"
+	},
+	{
+		"abr": "vorcha",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AlienVorcha"
+	},
+	{
+		"abr": "vorchaleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Vorcha"
+	},
+	{
+		"abr": "vorchameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlienVorcha"
+	},
+	{
+		"abr": "rim-lootbox",
+		"price": 125,
+		"category": "Artifacts",
+		"defname": "RimLootbox"
+	},
+	{
+		"abr": "ancientskeleton",
+		"price": 167,
+		"category": "Animal",
+		"defname": "DF_Skeleton"
+	},
+	{
+		"abr": "ancientskeletonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_DF_Skeleton"
+	},
+	{
+		"abr": "crystal",
+		"price": 500,
+		"category": "Raw resources",
+		"defname": "RimlaserCrystal"
+	},
+	{
+		"abr": "amuletofsoundmind",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_AmuletSoundMind"
+	},
+	{
+		"abr": "amuletofthebarkeep",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_AmuletBarkeep"
+	},
+	{
+		"abr": "amuletoftheblacksmith",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_AmuletBlacksmith"
+	},
+	{
+		"abr": "amuletoftheforeman",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_AmuletForeman"
+	},
+	{
+		"abr": "amuletofthesilvertongue",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_AmuletSilverTongue"
+	},
+	{
+		"abr": "fossil",
+		"price": 133,
+		"category": "Misc",
+		"defname": "Romy_Fossil"
+	},
+	{
+		"abr": "garin'shyperboloid",
+		"price": 8042,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_DeathRay"
+	},
+	{
+		"abr": "geode",
+		"price": 167,
+		"category": "Misc",
+		"defname": "Romy_Geode"
+	},
+	{
+		"abr": "goldring",
+		"price": 583,
+		"category": "Accessories",
+		"defname": "AMU_RingBasicGold"
+	},
+	{
+		"abr": "heavylaser",
+		"price": 2442,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_LaserHeavy"
+	},
+	{
+		"abr": "holyhandgrenade",
+		"price": 3833,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeHoly"
+	},
+	{
+		"abr": "incendiarylaser",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_LaserIncendiary"
+	},
+	{
+		"abr": "industrialcomponentprinter",
+		"price": 3333,
+		"category": "Production",
+		"defname": "Razzedy_ComponentPrinter"
+	},
+	{
+		"abr": "laserminigun",
+		"price": 1725,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_LaserMinigun"
+	},
+	{
+		"abr": "lasermini-turret",
+		"price": 1375,
+		"category": "Security",
+		"defname": "MiniTurret_Laser"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_LaserPistol"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "Romy_Gun_LaserPistol"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_LaserRifle"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 1517,
+		"category": "Ranged weapons",
+		"defname": "Romy_Gun_LaserRifle"
+	},
+	{
+		"abr": "lasersniperrifle",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Rimlaser_LaserSniper"
+	},
+	{
+		"abr": "lasersword",
+		"price": 1158,
+		"category": "Melee weapons",
+		"defname": "Romy_MeleeWeapon_LaserSword"
+	},
+	{
+		"abr": "medallionofthearchitect",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalArchitect"
+	},
+	{
+		"abr": "medallionofthechef",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalChef"
+	},
+	{
+		"abr": "medallionofthecouturier",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalCouturier"
+	},
+	{
+		"abr": "medallionofthedoctor",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalDoctor"
+	},
+	{
+		"abr": "medallionofthefarmer",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalFarmer"
+	},
+	{
+		"abr": "medallionofthemarksman",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalMarksman"
+	},
+	{
+		"abr": "medallionofthemason",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalMason"
+	},
+	{
+		"abr": "medallionoftheminer",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalMiner"
+	},
+	{
+		"abr": "medallionofthepugilist",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalPugilist"
+	},
+	{
+		"abr": "medallionoftheresearcher",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalResearcher"
+	},
+	{
+		"abr": "medallionofthesculptor",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalSculptor"
+	},
+	{
+		"abr": "medallionofthesmith",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalSmith"
+	},
+	{
+		"abr": "medallionofthesurgeon",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalSurgeon"
+	},
+	{
+		"abr": "medallionofthethrumbotrainer",
+		"price": 2500,
+		"category": "Accessories",
+		"defname": "AMU_MedalTamer"
+	},
+	{
+		"abr": "prism",
+		"price": 200,
+		"category": "Items",
+		"defname": "RimlaserPrism"
+	},
+	{
+		"abr": "randy-box",
+		"price": 250,
+		"category": "Artifacts",
+		"defname": "RandyLootbox"
+	},
+	{
+		"abr": "ringofthearchitect",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingArchitect"
+	},
+	{
+		"abr": "ringofthechef",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingChef"
+	},
+	{
+		"abr": "ringofthecouturier",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingCouturier"
+	},
+	{
+		"abr": "ringofthecustodian",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingCustodian"
+	},
+	{
+		"abr": "ringofthedoctor",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingDoctor"
+	},
+	{
+		"abr": "ringofthefarmer",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingFarmer"
+	},
+	{
+		"abr": "ringofthemarksman",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingMarksman"
+	},
+	{
+		"abr": "archo-analyzer",
+		"price": 24642,
+		"category": "Misc",
+		"defname": "ArchoAnalyzer"
+	},
+	{
+		"abr": "archoblade",
+		"price": 16667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_YanzArchotechBlade"
+	},
+	{
+		"abr": "archolibrary",
+		"price": 16667,
+		"category": "Archotech Re-Expanded",
+		"defname": "Archolibrary"
+	},
+	{
+		"abr": "archostrand",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Archostrand"
+	},
+	{
+		"abr": "archotecharchostrandreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchostrandreactor"
+	},
+	{
+		"abr": "archotecharchotechblockreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchoblockreactor"
+	},
+	{
+		"abr": "archotecharchotechcomponentreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchocomponentreactor"
+	},
+	{
+		"abr": "archotecharm",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechArm"
+	},
+	{
+		"abr": "archotechattofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechAttoFomax"
+	},
+	{
+		"abr": "archotechbattery",
+		"price": 17558,
+		"category": "Power",
+		"defname": "ArchotechBattery"
+	},
+	{
+		"abr": "archotechblock",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "BlockArchotech"
+	},
+	{
+		"abr": "archotechchemfuelreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteChemreactor"
+	},
+	{
+		"abr": "archotechcomponent",
+		"price": 833,
+		"category": "Archotech Re-Expanded",
+		"defname": "ComponentArchotech"
+	},
+	{
+		"abr": "archotechear",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEar"
+	},
+	{
+		"abr": "archotecheye",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEye"
+	},
+	{
+		"abr": "archotechfemtofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechFemtoFomax"
+	},
+	{
+		"abr": "archotechgoldreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteGoldreactor"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechHeart"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechKidney"
+	},
+	{
+		"abr": "archotechleg",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLeg"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLung"
+	},
+	{
+		"abr": "archotechmedicine",
+		"price": 167,
+		"category": "Medicine",
+		"defname": "MedicineArchotech"
+	},
+	{
+		"abr": "archotechnexus",
+		"price": 91725,
+		"category": "Archotech",
+		"defname": "YanzArchotechNexus"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechNose"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechPelvis"
+	},
+	{
+		"abr": "archotechpicofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechPicoFomax"
+	},
+	{
+		"abr": "archotechplasteelreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfinitePlasteelreactor"
+	},
+	{
+		"abr": "archotechpsychicemanator",
+		"price": 2167,
+		"category": "Special",
+		"defname": "ArchotechPsychicEmanator"
+	},
+	{
+		"abr": "archotechrifle",
+		"price": 33333,
+		"category": "Ranged weapons",
+		"defname": "Gun_YanzArchotechRifle"
+	},
+	{
+		"abr": "archotechsilverreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteSilverreactor"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechSpine"
+	},
+	{
+		"abr": "archotechstation",
+		"price": 24642,
+		"category": "Production",
+		"defname": "ArchotechStation"
+	},
+	{
+		"abr": "archotechsteelreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteSteelreactor"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechStomach"
+	},
+	{
+		"abr": "archotechsupressionrifle",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "Gun_YanzArchotechRifleBlunt"
+	},
+	{
+		"abr": "archotechuraniumreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteUraniumreactor"
+	},
+	{
+		"abr": "archotechvanometricpowercell",
+		"price": 2000,
+		"category": "Special",
+		"defname": "ArchotechVanometricPowerCell"
+	},
+	{
+		"abr": "attomachinery",
+		"price": 500,
+		"category": "Archotech Re-Expanded",
+		"defname": "Attomachinery"
+	},
+	{
+		"abr": "braixenleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Braixen_leather"
+	},
+	{
+		"abr": "cheetahleather",
+		"price": 20,
+		"category": "Leathers",
+		"defname": "Cheetah_leather"
+	},
+	{
+		"abr": "delphoxleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Delphox_leather"
+	},
+	{
+		"abr": "eeveeleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Eevee_leather"
+	},
+	{
+		"abr": "espeonleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Espeon_leather"
+	},
+	{
+		"abr": "femtomachinery",
+		"price": 333,
+		"category": "Archotech Re-Expanded",
+		"defname": "Femtomachinery"
+	},
+	{
+		"abr": "flareonleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Flareon_leather"
+	},
+	{
+		"abr": "glaceonleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Glaceon_leather"
+	},
+	{
+		"abr": "icephoxleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Icephox_leather"
+	},
+	{
+		"abr": "jaguarleather",
+		"price": 20,
+		"category": "Leathers",
+		"defname": "Jaguar_leather"
+	},
+	{
+		"abr": "jolteonleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Jolteon_leather"
+	},
+	{
+		"abr": "leafeonleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Leafeon_leather"
+	},
+	{
+		"abr": "leoleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leo_leather"
+	},
+	{
+		"abr": "lombaxleather",
+		"price": 42,
+		"category": "Leathers",
+		"defname": "Lombax_leather"
+	},
+	{
+		"abr": "pantherleather",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Panther_leather"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "ringofthemason",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingMason"
+	},
+	{
+		"abr": "ringoftheminer",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingMiner"
+	},
+	{
+		"abr": "ringofthepugilist",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingPugilist"
+	},
+	{
+		"abr": "ringoftheresearcher",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingResearcher"
+	},
+	{
+		"abr": "ringofthesculptor",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingSculptor"
+	},
+	{
+		"abr": "advancedcomponentprinter",
+		"price": 8333,
+		"category": "Production",
+		"defname": "Razzedy_AdvComponentPrinter"
+	},
+	{
+		"abr": "highroller-box",
+		"price": 1250,
+		"category": "Artifacts",
+		"defname": "BigLootbox"
+	},
+	{
+		"abr": "ringofthesmith",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingSmith"
+	},
+	{
+		"abr": "ringofthesurgeon",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingSurgeon"
+	},
+	{
+		"abr": "ringofthethrumbotrainer",
+		"price": 1667,
+		"category": "Accessories",
+		"defname": "AMU_RingTamer"
+	},
+	{
+		"abr": "silverring",
+		"price": 333,
+		"category": "Accessories",
+		"defname": "AMU_RingBasicSilver"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	}
 	],
-	"total": 7611
+	"total": 7807
 }

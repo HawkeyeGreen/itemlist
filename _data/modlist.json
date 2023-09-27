@@ -549,7 +549,7 @@
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.1"
+    "version": "1.4.1.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -720,16 +720,28 @@
     "version": null
   },
   {
+    "author": "Scorpio",
+    "name": "VE Outpost Addiction Fix",
+    "steamId": "3036683593",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1368"
+    "version": "1.5.1381"
   },
   {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
     "name": "Vanilla Vehicles Expanded",
     "steamId": "3014906877",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Yanzihko's Races - Core Module [YZRCM][1.4]",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vanilla Expanded Team and Co.",
@@ -754,6 +766,12 @@
     "name": "Rim-Effect: N7",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Troopersmith1",
+    "name": "Rimeffect Races (Continued)",
+    "steamId": "2926557428",
+    "version": "1.4.2"
   },
   {
     "author": "m00nl1ght",
@@ -1044,6 +1062,12 @@
     "version": "1.4.3"
   },
   {
+    "author": "Yoann",
+    "name": "Mud - Slow down opponents",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Rimkit",
     "steamId": null,
@@ -1065,7 +1089,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.8"
+    "version": "2.6.0.9"
   },
   {
     "author": "Kure",
@@ -1452,6 +1476,24 @@
     "version": "1.0.350.0854"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Rimlaser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kentrh",
+    "name": "Dungeons Core (Continued)",
+    "steamId": "2937127169",
+    "version": "1.4.1"
+  },
+  {
+    "author": "Fraser Hitchen",
+    "name": "Better Beggars (Continued)",
+    "steamId": "3006899215",
+    "version": "1.4.1"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -1608,6 +1650,18 @@
     "version": "2.9.140"
   },
   {
+    "author": "Smash Phil and Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
+    "author": "Helixien",
+    "name": "Vanometric Generator",
+    "steamId": "3041187151",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -1663,12 +1717,6 @@
   },
   {
     "author": "Yoann",
-    "name": "Mud - Slow down opponents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yoann",
     "name": "Baby Animals",
     "steamId": null,
     "version": null
@@ -1704,10 +1752,52 @@
     "version": null
   },
   {
+    "author": "LTS",
+    "name": "Repair hubs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "The Holy Hand Grenade of Antioch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Romyashi",
+    "name": "Mountain Rarities",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Ancient Amulets (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bambaryła and Razzedy",
+    "name": "Component 3D Printers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Archotech Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Orbital Artifact Trader (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.6.0.0"
+    "version": "2.9.0.0"
   },
   {
     "author": "Sincere",
@@ -1728,8 +1818,14 @@
     "version": null
   },
   {
+    "author": "LingLuo",
+    "name": "Incident Flaregun (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jechto",
-    "name": "CaseLootBoxes",
+    "name": "LootBoxes - Rimworld Surprise Mechanics",
     "steamId": null,
     "version": null
   },
