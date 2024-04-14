@@ -61716,7 +61716,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vulpes - Adorable Foxes [1.4]",
+        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
         "karmaTypeForAdding": null
       },
       "defName": "VAF_Vulpian",
@@ -64493,766 +64493,6 @@
       },
       "defName": "Faith",
       "name": "faith"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Vaporeon, and he is absolutely adorable, despite having such exotic appearance. Vaporeons, due to their aquatic origin and natural ascetism, tend to be in tune with nature, making them wonderful farmers.",
-      "stats": [
-        "+5 social",
-        "+5 plants",
-        "+5 animals",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+5 plants",
-          "+5 animals",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VWP_Vaporeon",
-      "name": "vaporeon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Umbreon. Timmy is a born fighter just like all Umbreons and already has fighting instincts together with basic combat knowledge embedded into his DNA.",
-      "stats": [
-        "+5 melee",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 melee",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Umbreon",
-      "name": "umbreon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Sylveon, and he is absolutely adorable, as expected from gene-engineered servitor. Sylveons were gene-engineered to be a productive workers at assembly line and basic principles of Crafting are embedded in their DNA.",
-      "stats": [
-        "+5 social",
-        "+5 crafting",
-        "+3 intellectual",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+5 crafting",
-          "+3 intellectual",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFP_Sylveon",
-      "name": "sylveon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Leafeon. his body requires little to no Nutrition thanks to photosynthesis capabilities, but if any leaves are damaged or destroyed, it will directly affect all vital systems. Just like most Leafeons, Timmy is very good with plants and even can form some sort of communication with them.",
-      "stats": [
-        "+5 plants",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 plants",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Leafeon",
-      "name": "leafeon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Jolteon. Timmy doesn't have any special traits compared to other Jolteonlutions but he is eager to do even the hardest work despite his small body size.",
-      "stats": [
-        "+5 social",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Jolteon",
-      "name": "jolteon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Glaceon. Timmy doesn't have any special traits compared to other Glaceonlutions but he is eager to do even the hardest work despite his small body size.",
-      "stats": [
-        "+5 social",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Glaceon",
-      "name": "glaceon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Flareon. Just like most Flareons, he has extreme heat resistance and some natural combat capabilities.",
-      "stats": [
-        "+3 melee",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Flareon",
-      "name": "flareon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Espeon.",
-      "stats": [
-        "+5 social",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Espeon",
-      "name": "espeon"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Eevee. Timmy doesn't have any special traits compared to other eeveelutions but he is eager to do even the hardest work despite his small body size.",
-      "stats": [
-        "+5 social",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "EEM_Eevee",
-      "name": "eevee"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Eevee with implanted personality of a human person. he seems to enjoy being somewhat ressurected in a body like this.",
-      "stats": [
-        "+20% mental break threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+20% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Eeveelutions_IMPOS",
-      "name": "implantedmemory"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Eevee with implanted personality of a human person. he seems to have physchological trauma because of this.",
-      "stats": [
-        "-20% mental break threshold"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-20% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Eeveelutions_IMNEG",
-      "name": "implantedmemory"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Cheetah. Timmy is a great runner with a sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+5 shooting",
-        "+3 animals",
-        "-5 social",
-        "+0.3 melee dodge chance",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 shooting",
-          "+3 animals",
-          "-5 social",
-          "+0.3 melee dodge chance",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Cheetah",
-      "name": "cheetah"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Leo. Timmy is a great natural predator with sharp sight and is rather Social, compared to other Feline species.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "+2 social",
-        "+0.3 shooting accuracy"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "+2 social",
-          "+0.3 shooting accuracy"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Leo",
-      "name": "leo"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Jaguar. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Jaguar",
-      "name": "jaguar"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Panther. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Panther",
-      "name": "panther"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Tigris. Timmy is a great natural predator with sharp sight. However, just like most Feline species, he is not a very Social being.",
-      "stats": [
-        "+3 melee",
-        "+3 animals",
-        "+2 shooting",
-        "-5 social",
-        "+0.3 shooting accuracy",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 animals",
-          "+2 shooting",
-          "-5 social",
-          "+0.3 shooting accuracy",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FFR_Tigris",
-      "name": "tigris"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a lombax. he has an incredible natural inclination towards crafting, engineering and combat just like other representatives of his species.",
-      "stats": [
-        "+5 shooting",
-        "+5 melee",
-        "+5 crafting"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 shooting",
-          "+5 melee",
-          "+5 crafting"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LDW_Lombax",
-      "name": "lombax"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Kisalfar. While Kisalfar are \"inferior\" compared to Fressalfar in terms of intelligence, they're incredibly good in \"social\" things and negotiations.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KFLS_Kisalfar",
-      "name": "kisalfar"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Fressalfar. Timmy is just like a Thrumbo that is hidden in his DNA - Highly Intelligent and not really Social. It is very hard to approach him and start a conversation.",
-      "stats": [
-        "+5 intellectual",
-        "+3 crafting",
-        "-5 social",
-        "-25.00% trade price improvement",
-        "-25.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 intellectual",
-          "+3 crafting",
-          "-5 social",
-          "-25.00% trade price improvement",
-          "-25.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KFLS_Fressalfar",
-      "name": "fressalfar"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Braixen. Timmy has an incredible natural inclination towards psionics and manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BDFP_Braixen",
-      "name": "braixen"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Delphox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BDFP_Delphox",
-      "name": "delphox"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is an Icephox. Timmy is a powerful psychic and is inclined towards manipulation of life essence. he can easily read emotions of humans, animals and even plants.",
-      "stats": [
-        "+5 social",
-        "+3 animals",
-        "+3 plants",
-        "+25.00% train animal chance",
-        "+25.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 animals",
-          "+3 plants",
-          "+25.00% train animal chance",
-          "+25.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BDFP_Icephox",
-      "name": "icephox"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a Zoroark, and he is absolutely adorable, as expected from gene-engineered servitor. Zoroark are intelligent creatures, and they tend to have developed social and problem-solving skills.",
-      "stats": [
-        "+3 social",
-        "+3 intellectual",
-        "+10.00% trade price improvement",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 social",
-          "+3 intellectual",
-          "+10.00% trade price improvement",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ZIP_Zoroark",
-      "name": "zoroark"
     }
   ],
   "races": [
@@ -65310,7 +64550,7 @@
           "+95.00 Mass",
           "+200% Flammability",
           "+1000% Global certainty loss factor",
-          "+100% Lifespan factor",
+          "+70% Lifespan factor",
           "-100.0 Beauty",
           "+$8000 Market value",
           "+5.00 Move speed",
@@ -65322,7 +64562,7 @@
           "+20 Meat amount",
           "+40 Leather amount",
           "+90% Pain shock threshold",
-          "+50% Psychic sensitivity",
+          "+100% Psychic sensitivity",
           "+40% Mental break threshold",
           "-200% Toxic resistance",
           "-50% Toxic environment resistance",
@@ -65412,17 +64652,18 @@
         "customName": false,
         "stats": [
           "+50.00 Mass",
-          "+30% Flammability",
-          "+$3500 Market value",
-          "+5.00 Move speed",
+          "+80% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
           "+40% Mental break threshold",
-          "+42.0C Maximum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
           "+10.0C Minimum comfortable temperature",
-          "+110% Immunity gain speed",
+          "+100% Immunity gain speed",
           "+70 Carrying capacity",
-          "+55 Meat amount",
+          "+100 Meat amount",
           "+55 Leather amount",
           "+80% Pain shock threshold",
+          "+1.0 Beauty",
           "+130.00% Negotiation ability",
           "+120% Sell price multiplier",
           "+120.00% Social impact",
@@ -65435,8 +64676,10 @@
           "+90% Butchery speed",
           "+80.00% Food poison chance",
           "+1.1 Cooking speed",
-          "+110% Rest rate multiplier",
-          "+80% Plant work speed"
+          "+100% Rest rate multiplier",
+          "+80% Plant work speed",
+          "+0.5 Filth rate",
+          "+1.4 Max nutrition"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -66157,8 +65400,8 @@
         "customName": false,
         "stats": [
           "+60.00 Mass",
-          "+0% Flammability",
-          "+$4000 Market value",
+          "+100% Flammability",
+          "+$1500 Market value",
           "+4 Honor value",
           "+42 Carrying capacity",
           "+25% Global learning factor",
@@ -66167,9 +65410,9 @@
           "+98% Immunity gain speed",
           "+120% Global work speed",
           "+0 Foraged food amount",
-          "+125.00% Negotiation ability",
-          "+125.00% Social impact",
-          "+125.00% Trade price improvement",
+          "+100.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
           "+25 Leather amount",
           "+75% Pain shock threshold",
           "+20.0C Minimum comfortable temperature",
@@ -66178,19 +65421,16 @@
           "-100% Toxic environment resistance",
           "+4.10 Move speed",
           "+90% Aiming time",
-          "+0.9 Shooting accuracy",
           "+2.0 Melee dodge chance",
           "+3.0 Melee hit chance",
           "+50.0% Armor - Heat",
           "+150% Learning rate factor",
-          "-1.00 Neural heat recovery rate",
-          "-2.50% Tame animal chance",
-          "-2.50% Train animal chance"
+          "-1.00 Neural heat recovery rate"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A race of foxes who took on the mystical powers of the transcendent world and took on human form. Their body has an elegant organ in which the strength of their superpowers is determined by the amount of sunlight interlocked with the mechanites in their body. Because to this organ, foxes revere the sun and energy.\n\n<i><color=#66E0E4FF>Miho, the celestial fox</color></i>",
+      "description": "The common ancestor of many Miho species, including the Ordinary, is thought to be a red fox, not a human. Obviously, it was not a natural evolution but it's thought to have been caused by something transcendent. They look like humans but they're not. Miho have a Mist Flower organ in their bodies that determines the strength of their psychic powers based on the amount of sunlight they receive, which is linked to the mechanites in their bodies. Because of this organ, foxes worship the sun and it's energy.\n\n<i><color=#66E0E4FF>Miho, the celestial fox</color></i>",
       "defName": "Alien_Miho",
       "enabled": true,
       "name": "Miho",
@@ -66254,28 +65494,6 @@
       "defName": "AT_Hiveguard",
       "enabled": true,
       "name": "Anty Hive guard",
-      "price": 0
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
-      "defName": "Tribal_Proty",
-      "enabled": true,
-      "name": "human",
       "price": 0
     },
     {
@@ -66678,84 +65896,6 @@
       "enabled": true,
       "name": "Silkiera Vixenmalice",
       "price": 16667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+$5800 Market value",
-          "+5.20 Move speed",
-          "-45.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+150% Immunity gain speed",
-          "+150 Carrying capacity",
-          "+50.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+40% Toxic resistance",
-          "+40% Toxic environment resistance",
-          "+110% Eating speed",
-          "+45 Meat amount",
-          "+80% Plant work speed",
-          "+120% Plant harvest yield",
-          "+75 Leather amount",
-          "+80% Mining speed",
-          "+120% Mining yield",
-          "+1.0 Melee dodge chance",
-          "+125% Aiming time",
-          "+80.00% Negotiation ability",
-          "+90% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race 1.4(unofficial)</color></i>",
-      "defName": "Dragonian_Male",
-      "enabled": true,
-      "name": "Dragonian",
-      "price": 9667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$5800 Market value",
-          "+5.20 Move speed",
-          "-45.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+150% Immunity gain speed",
-          "+150 Carrying capacity",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+40.0% Armor - Heat",
-          "+40% Toxic resistance",
-          "+40% Toxic environment resistance",
-          "+110% Eating speed",
-          "+45 Meat amount",
-          "+80% Plant work speed",
-          "+120% Plant harvest yield",
-          "+75 Leather amount",
-          "+80% Mining speed",
-          "+120% Mining yield",
-          "+1.0 Melee dodge chance",
-          "+125% Aiming time",
-          "+80.00% Negotiation ability",
-          "+90% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race 1.4(unofficial)</color></i>",
-      "defName": "Dragonian_Female",
-      "enabled": true,
-      "name": "Dragonian",
-      "price": 9667
     },
     {
       "data": {
@@ -67193,6 +66333,84 @@
       "enabled": true,
       "name": "Ancient Skeleton",
       "price": 167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-45.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+50.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+20.0% Armor - Heat",
+          "+40% Toxic resistance",
+          "+40% Toxic environment resistance",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race 1.4(unofficial)</color></i>",
+      "defName": "Dragonian_Male",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 9667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-45.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Heat",
+          "+40% Toxic resistance",
+          "+40% Toxic environment resistance",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race 1.4(unofficial)</color></i>",
+      "defName": "Dragonian_Female",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 9667
     }
   ]
 }
