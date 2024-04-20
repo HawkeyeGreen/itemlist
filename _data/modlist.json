@@ -168,6 +168,12 @@
     "version": null
   },
   {
+    "author": "Velcroboy",
+    "name": "Anima Fruit (The Original)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
@@ -224,12 +230,6 @@
   {
     "author": "Sarg Bjornson",
     "name": "Vanilla Textures Expanded - Variations",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and xrushha",
-    "name": "Vanilla Ideology Expanded - Anima Theme",
     "steamId": null,
     "version": null
   },
@@ -356,6 +356,12 @@
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Waster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and xrushha",
+    "name": "Vanilla Ideology Expanded - Anima Theme",
     "steamId": null,
     "version": null
   },
@@ -512,12 +518,6 @@
   {
     "author": "xrushha",
     "name": "Anima Gear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Velcroboy",
-    "name": "Anima Fruit (The Original)",
     "steamId": null,
     "version": null
   },
@@ -739,13 +739,13 @@
   },
   {
     "author": "Ayameduki",
-    "name": "[1.4]Nearmare Race",
+    "name": "[Aya]Nearmare Race",
     "steamId": null,
     "version": null
   },
   {
     "author": "Ayameduki",
-    "name": "[1.4]Silkiera Race",
+    "name": "[Aya]Silkiera Race",
     "steamId": null,
     "version": null
   },

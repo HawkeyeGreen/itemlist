@@ -47238,6 +47238,54 @@
 		"category": "Armored",
 		"defname": "DR_JapaneseDress"
 	},
+	{
+		"abr": "ancientgiantspider",
+		"price": 7000,
+		"category": "Animals",
+		"defname": "VAECaves_AncientGiantSpider"
+	},
+	{
+		"abr": "blindsalamander",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "VAECaves_BlindSalamander"
+	},
+	{
+		"abr": "blindsalamanderegg(fert.)",
+		"price": 40,
+		"category": "Eggs (fert.)",
+		"defname": "VAECaves_EggSalamanderFertilized"
+	},
+	{
+		"abr": "cavebear",
+		"price": 1583,
+		"category": "Animals",
+		"defname": "VAECaves_CaveBear"
+	},
+	{
+		"abr": "cavecrawler",
+		"price": 2667,
+		"category": "Animals",
+		"defname": "VAECaves_CaveCrawler"
+	},
+	{
+		"abr": "cavecrawleregg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "VAECaves_CaveCrawlerEggFertilized"
+	},
+	{
+		"abr": "dressg",
+		"price": 1667,
+		"category": "Armored",
+		"defname": "DR_Onepiece"
+	},
+	{
+		"abr": "dressh",
+		"price": 1667,
+		"category": "Armored",
+		"defname": "DR_EveningDress"
+	}
 	],
-	"total": 8034
+	"total": 8038
 }
