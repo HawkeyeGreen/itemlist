@@ -61687,46 +61687,6 @@
       "canRemove": true,
       "addPrice": 0,
       "removePrice": 0,
-      "degree": 0,
-      "description": "Timmy is a Vulpian, and he is absolutely adorable, as expected from gene-engineered servitor. Even animals are attracted by his adorable appearence. Even plants start to bloom around Timmy!",
-      "stats": [
-        "+5 social",
-        "+3 intellectual",
-        "+2 animals",
-        "+2 plants",
-        "+25.00% train animal chance",
-        "+10.00% tame animal chance",
-        "+50.00% trade price improvement",
-        "+50.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 social",
-          "+3 intellectual",
-          "+2 animals",
-          "+2 plants",
-          "+25.00% train animal chance",
-          "+10.00% tame animal chance",
-          "+50.00% trade price improvement",
-          "+50.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yanzihko's Races - Core Module [YZRCM][1.4]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VAF_Vulpian",
-      "name": "vulpian"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 0,
-      "removePrice": 0,
       "degree": 4,
       "description": "Timmy is an Explorer. Their travels through the land have granted them insight into numerous schools of both magic and might -- they are capable of learning abilities from almost any mage or fighter scroll. However, they possess no innate abilities of their own.",
       "stats": [
