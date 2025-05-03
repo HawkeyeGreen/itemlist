@@ -90,6 +90,12 @@
     "version": "2.0.0.0"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -252,6 +258,12 @@
     "version": null
   },
   {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.6.2.0"
+  },
+  {
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -268,6 +280,30 @@
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
+    "version": "1.2.0.0"
   },
   {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
@@ -304,6 +340,12 @@
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
     "version": "1.5.0"
+  },
+  {
+    "author": "Biscuit",
+    "name": "Archotech+ (Continued)",
+    "steamId": "2270493883",
+    "version": "1.5.2"
   },
   {
     "author": "Zaljerem",
@@ -720,26 +762,8 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "Oskar Potocki and Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Plants Expanded - Mushrooms",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
     "steamId": null,
     "version": null
   },
@@ -1358,8 +1382,8 @@
   {
     "author": "DimonSever000",
     "name": "Events+",
-    "steamId": null,
-    "version": null
+    "steamId": "2599784515",
+    "version": "1.0.0.0"
   },
   {
     "author": "Erin",
@@ -1500,12 +1524,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Rikiki, Mlie, Fluffysminion and cyanobot",
-    "name": "Caveworld Flora Unleashed",
-    "steamId": "3409043551",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ostrich-Hungry",
     "name": "Before the Crash: Backstories",
     "steamId": null,
@@ -1521,7 +1539,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.77"
+    "version": "1.5.81"
   },
   {
     "author": "AobaKuma , Bill Doors, Bread Mo and KV4EX",
@@ -1590,7 +1608,7 @@
     "version": null
   },
   {
-    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Samael and Con",
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Samael, Con and Eridanus",
     "name": "Grimworld 40,000 - Angels of Death",
     "steamId": null,
     "version": null
@@ -1610,8 +1628,8 @@
   {
     "author": "Clashgore, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Shun The Witch, Samael and Con",
     "name": "GrimWorld 40,000 - Imperial Vehicles of Grimworld",
-    "steamId": "3026724919",
-    "version": "1.0.0+ed6920e421af74cf7c8f188c370e6ba71d4cdb64"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Clashgore, Alite, DogDough, Gerrymon, Sandwish and Razzberry",
@@ -1635,6 +1653,192 @@
     "author": "Sarg Bjornson",
     "name": "Alpha Crafts",
     "steamId": "3382446150",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Taranchuk",
+    "name": "Vanilla Quests Expanded - Cryptoforge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "José Ángel Soler Ortiz",
+    "name": "TraderGen",
+    "steamId": "2804121197",
+    "version": "0.8.1.0"
+  },
+  {
+    "author": "Zylle",
+    "name": "Sand Castles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Anima Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pphhyy",
+    "name": "pphhyy Sanguinary Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sindre0830",
+    "name": "Natural Paths",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bishop",
+    "name": "Music on the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Salvador143",
+    "name": "Medieval Things: Geysers",
+    "steamId": "3464984971",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs and TheRealLemon",
+    "name": "Map Reroll (1.4/1.5)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
+  },
+  {
+    "author": "Smxrez",
+    "name": "Crypto Weapons: Restored",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kapitan Oczywisty",
+    "name": "Change map edge limit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Oasis",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.8838.38019"
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Anima Fruit (The Original)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Anima Fruit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti, Magenta_Ivy and Victor",
+    "name": "Anima Bionics - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Caverns",
+    "steamId": "2969748433",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "Sentinel",
+    "name": "VPE - Anima",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Fossils",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - AncientCorps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "RimCuisine 2 Core (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BadOaks",
+    "name": "Campfire Stews",
+    "steamId": "3467551920",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dwarf Love",
+    "name": "[DF] Omni Bot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dwarf Love",
+    "name": "[DF] Archiferium",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Ceiling Lights Unofficial 1.4 Update",
+    "steamId": "3163886128",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
     "version": "1.0.0.0"
   }
 ]
