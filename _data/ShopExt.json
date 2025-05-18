@@ -67922,7 +67922,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy gradually develops further transcendent powers over the course of his lifetime. he also has an additional awakening.",
+      "description": "Timmy gains increasing potency as a psycaster the longer he lives, develops a new awakening every six years, and gradually develops further transcendent powers over the course of his lifetime.",
       "stats": [
         "x100 lifespan factor"
       ],
@@ -68066,7 +68066,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "When Timmy is slain, he will transfer his consciousness into someone else, replacing their mind with his own. The only way to prevent this is to strike him with a persona weapon, which suppresses this ability for a day, or to kill him within an hour of transferring to a new body.",
+      "description": "When Timmy is slain, he will transfer his consciousness into someone else, replacing their mind with his own. For 24 hours afterward, he will be invulnerable to anything other than persona weapons, but will not be able to transfer to a new body.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -70883,6 +70883,232 @@
       },
       "defName": "hunger",
       "name": "fastmetabolisim"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy places great importance on the wearing of garments. he dislikes being naked, and thinks poorly of others for not covering up at all times. he also can't stand wearing tattered apparel, so he takes good care of his apparel.",
+      "stats": [
+        "+2 crafting",
+        "-60% apparel wear rate factor"
+      ],
+      "conflicts": [
+        "nudist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "nudist"
+        ],
+        "stats": [
+          "+2 crafting",
+          "-60% apparel wear rate factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Hauts' Added Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HVT_Textile",
+      "name": "textile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a pure-blood Wolfein.",
+      "stats": [
+        "+3.0 melee dodge chance",
+        "+3.0 melee hit chance",
+        "+20% psychic sensitivity",
+        "x110% melee damage factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 melee dodge chance",
+          "+3.0 melee hit chance",
+          "+20% psychic sensitivity",
+          "x110% melee damage factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Wolfein Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Wolfein_PureBlood",
+      "name": "pure-bloodwolfein"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a biotic god.",
+      "stats": [
+        "x50 biotic energy limit",
+        "x50 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x50 biotic energy limit",
+          "x50 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect Renegade: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticGod",
+      "name": "bioticgod"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
+      "stats": [
+        "-0.8 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.8 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect Renegade: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydeaf"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
+      "stats": [
+        "-0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.5 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect Renegade: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallydull"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
+      "stats": [
+        "+0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.5 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect Renegade: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallyskilled"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect Renegade: Core",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_BioticRecoveryOffset",
+      "name": "bioticallytalented"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a Demon of the Night Winds.",
+      "stats": [
+        "x150% biotic energy limit",
+        "x200% biotic energy recovery rate",
+        "x50% biotic ability cost multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x150% biotic energy limit",
+          "x200% biotic energy recovery rate",
+          "x50% biotic ability cost multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rim-Effect Renegade: Asari and Reapers",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RE_ArdatYakshi",
+      "name": "ardatyakshi"
     }
   ],
   "races": [
@@ -70890,7 +71116,7 @@
       "data": {
         "customName": false,
         "stats": [
-          "+95.00 Mass",
+          "+130.00 Mass",
           "+200% Flammability",
           "+1000% Global certainty loss factor",
           "+1.95 Crawl speed",
@@ -72440,7 +72666,7 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "The juggernaut is a testament both to human engineering and the folly of their ambition. Assembling one requires a production facility with instruments of picoscoping precision and timeliness, an interstellar empire's worth of logistical supply to manufacture, and repeated blasts that could level a city and leave a subcontinent uninhabitable for decades. Manufactured more for prestige and demonstrations of wealth than for actual combat capability, juggernauts should be extremely rare to find beyond the arsenals of glitterworlds.\n\nCuriously, though, rogue juggernauts can be found floating through space with alarming frequency. It is unclear where they are coming from, but it is well-known that one making landfall heralds chaos. They do not belong on RimWorlds, and are entirely unserviceable here. The countless flaws in their design, ranging from simple internal oversights to just how much logistics are required to keep them operational in the long-run, make them fundamentally unsuited to surviving any length of time.\n\nJuggernauts are even designed to violently and explosively self-destruct rather than be salvageable, making them effectively worthless for anything other than throwing at enemies. While they are marvels to behold, and could constitute one of the single most dangerous entities to encounter, they are derided by most all who know of them.",
+      "description": "The juggernaut is a testament both to human engineering and the folly of their ambition. Assembling one requires a production facility with instruments of picoscoping precision and timeliness, an interstellar empire's worth of logistical supply, and repeated blasts that could level a city and leave a subcontinent uninhabitable for decades. Manufactured more for prestige and demonstrations of wealth than for actual combat capability, juggernauts should be extremely rare to find beyond the arsenals of glitterworlds.\n\nCuriously, though, rogue juggernauts can be found floating through space with alarming frequency. It is unclear where they are coming from, but it is well-known that one making landfall heralds chaos. They do not belong on RimWorlds, and are entirely unserviceable here. The countless flaws in their design, ranging from simple internal oversights to just how much logistics are required to keep them operational in the long-run, make them fundamentally unsuited to surviving any length of time.\n\nJuggernauts are even designed to violently and explosively self-destruct rather than be salvageable, making them effectively worthless for anything other than throwing at enemies. While they are marvels to behold, and could constitute one of the single most dangerous entities to encounter, they are derided by most all who know of them.",
       "defName": "ABF_Thing_Synstruct_Juggernaut",
       "enabled": true,
       "name": "synstruct juggernaut",
@@ -72855,6 +73081,301 @@
       "enabled": true,
       "name": "primarch",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+50% Flammability",
+          "+$2000 Market value",
+          "+4.80 Move speed",
+          "+1.2 Max nutrition",
+          "+40% Mental break threshold",
+          "+29.0C Max comfortable temperature",
+          "+9.0C Min comfortable temperature",
+          "+105% Immunity gain speed",
+          "+80 Carrying capacity",
+          "+5 Honor value",
+          "+70 Meat amount",
+          "+50 Leather amount",
+          "+100% General labor speed",
+          "+110% Global work speed",
+          "+90% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+1.8 Melee hit chance",
+          "+4.5 Melee dodge chance",
+          "+4.5 Shooting accuracy",
+          "+120% Aiming time",
+          "+90% Pain shock threshold",
+          "+70% Drug synthesis speed",
+          "+90% Medical tend speed",
+          "+80% Medical tend quality",
+          "+140.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+90% Medical surgery success chance",
+          "+110% Eating speed",
+          "+120% Butchery efficiency",
+          "+110% Butchery speed",
+          "+80.00% Food poison chance",
+          "+0.8 Cooking speed",
+          "+110% Rest rate multiplier",
+          "+40% Plant work speed",
+          "+60% Plant harvest yield",
+          "+100% Construction speed",
+          "+100% Mechanoid shredding efficiency",
+          "+120% Mechanoid shredding speed",
+          "+90% Smelting speed",
+          "+110% Research speed",
+          "+110% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Wolfein are a nocturnal humanoid species, gifted with night vision and hearing far superior to that of humans. Their most distinctive features are the lupine ears atop their heads and the fluffy wolf tails at their backs. Today, the entire race lives under the iron rule of a megacorp known as the Military-Industrial Combine—a colossal enterprise that once served as the Wolfein Empire’s defense contractor and has since permeated every stage of Wolfein life, from birth to death.\n\n            Though Wolfein civilization has advanced into the space age, the instinct for rebellion inherited through generations of wolf-blooded genes is steadily being dismantled by the corporate machine. The vast majority of Wolfein now curl beneath the megacorp’s totalitarian rule, their lives dissected into quantifiable data units by an omnipresent, unblinking surveillance system. Even the faintest thought of escape is swiftly erased within the airtight net of control.\n\n            After a brutal total war with the Machinekind decimated the Wolfein population, the megacorp's grip began to show cracks. To fill the void in combat strength, it reverse-engineered Machinekind technology and mass-produced efficient killing machines. Amidst the ruins of war, a resistance movement has begun to grow in the shadows. Bound by the creed “overthrow the megacorp at all costs,” their actions—labeled as acts of terrorism by official media—are now tearing fissures into the rusted iron curtain of corporate control.",
+      "defName": "Wolfein_Race",
+      "enabled": true,
+      "name": "Wolfein race",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+$1900 Market value",
+          "+5.60 Move speed",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
+          "+50 Leather amount",
+          "+4 Honor value",
+          "+130% Research speed",
+          "+110% Global work speed",
+          "+110% Global learning factor",
+          "+1.2 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The legacy of a fallen empire, with a distant link to the humanoid races of earth and beyond. Other than the fact that they began to awaken over the past century, no one knows much else about what they are, where they are from or fundamentals behind their technology, which seems to bridge the gap between science and magic.",
+      "defName": "Alien_Forsaken",
+      "enabled": true,
+      "name": "forsaken",
+      "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+100% Toxic resistance",
+          "-5.0 Beauty",
+          "+$2200 Market value",
+          "+4.70 Move speed",
+          "+200% Flammability",
+          "+400% Immunity gain speed",
+          "+200 Carrying capacity",
+          "+35.0% Armor - Sharp",
+          "+45.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "-40.0C Min comfortable temperature",
+          "+135.0C Max comfortable temperature",
+          "+420% Pain shock threshold",
+          "+300.00 Mass",
+          "+100% Eating speed",
+          "+110% Global work speed",
+          "+75 Meat amount",
+          "+130% Research speed",
+          "+80% Plant work speed",
+          "+80 Leather amount",
+          "+100% Global learning factor",
+          "+70.00% Negotiation ability",
+          "+70.00% Trade price improvement",
+          "+70.00% Social impact",
+          "+150% Hunting stealth",
+          "+0.9 Cooking speed",
+          "+130% Butchery speed",
+          "+130% Butchery efficiency",
+          "+130% Drug cooking speed",
+          "+100% Smelting speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+100% Psychic sensitivity",
+          "+110.00% Train animal chance",
+          "+110.00% Tame animal chance",
+          "+100% Smoothing speed",
+          "+100% Animal gather speed",
+          "+130% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Nightkin were an elite warrior caste in the Master's super mutant army and the apex of his creation of super mutants. When the Master's super mutant army was defeated in 2162, many began wandering the wasteland or banded together into groups of varying sizes and with varying ends.",
+      "defName": "Nightkin",
+      "enabled": true,
+      "name": "Nightkin",
+      "price": 3667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+100% Toxic resistance",
+          "-4.0 Beauty",
+          "+$1650 Market value",
+          "+4.30 Move speed",
+          "+200% Flammability",
+          "+400% Immunity gain speed",
+          "+200 Carrying capacity",
+          "+35.0% Armor - Sharp",
+          "+45.0% Armor - Blunt",
+          "+15.0% Armor - Heat",
+          "-40.0C Min comfortable temperature",
+          "+135.0C Max comfortable temperature",
+          "+350% Pain shock threshold",
+          "+300.00 Mass",
+          "+80% Eating speed",
+          "+90% Global work speed",
+          "+75 Meat amount",
+          "+100% Research speed",
+          "+80% Plant work speed",
+          "+95 Leather amount",
+          "+80% Global learning factor",
+          "+120.00% Negotiation ability",
+          "+80.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+80% Hunting stealth",
+          "+1.0 Cooking speed",
+          "+100% Butchery speed",
+          "+100% Butchery efficiency",
+          "+100% Drug cooking speed",
+          "+100% Smelting speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+0% Psychic sensitivity",
+          "+110.00% Train animal chance",
+          "+110.00% Tame animal chance",
+          "+100% Smoothing speed",
+          "+80% Animal gather speed",
+          "+150% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Super mutant is a general term referring to humanoid mutants created by exposing a regular and relatively unmutated human to a variant of the Forced Evolutionary Virus (FEV). The resulting hulking mutants typically possess exceptional strength, endurance, resistance or immunity to disease and radiation, as well as modified intelligence.",
+      "defName": "Supermutant",
+      "enabled": true,
+      "name": "Supermutant",
+      "price": 2750
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+100% Toxic environment resistance",
+          "+100% Toxic resistance",
+          "-2.0 Beauty",
+          "+$1000 Market value",
+          "+4.20 Move speed",
+          "+200% Flammability",
+          "+200% Immunity gain speed",
+          "+65 Carrying capacity",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+24.0C Min comfortable temperature",
+          "+25.0C Max comfortable temperature",
+          "+100% Pain shock threshold",
+          "+50.00 Mass",
+          "+100% Eating speed",
+          "+100% Global work speed",
+          "+25 Meat amount",
+          "+100% Research speed",
+          "+100% Plant work speed",
+          "+35 Leather amount",
+          "+100% Global learning factor",
+          "+100.00% Negotiation ability",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+100% Hunting stealth",
+          "+1.0 Cooking speed",
+          "+100% Butchery speed",
+          "+100% Butchery efficiency",
+          "+100% Drug cooking speed",
+          "+100% Smelting speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+100% Psychic sensitivity",
+          "+100.00% Train animal chance",
+          "+100.00% Tame animal chance",
+          "+100% Smoothing speed",
+          "+100% Animal gather speed",
+          "+100% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A non feral ghoul, is a decrepit, rotting, zombie-like mutant. Intense and prolonged radiation has ravaged their skin, much of their flesh and in some cases many of their ligaments.",
+      "defName": "Ghoul",
+      "enabled": true,
+      "name": "ghoul",
+      "price": 1667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+100% Toxic environment resistance",
+          "+100% Toxic resistance",
+          "-2.0 Beauty",
+          "+$1000 Market value",
+          "+4.20 Move speed",
+          "+200% Flammability",
+          "+200% Immunity gain speed",
+          "+65 Carrying capacity",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+24.0C Min comfortable temperature",
+          "+25.0C Max comfortable temperature",
+          "+100% Pain shock threshold",
+          "+50.00 Mass",
+          "+100% Eating speed",
+          "+100% Global work speed",
+          "+25 Meat amount",
+          "+100% Research speed",
+          "+100% Plant work speed",
+          "+35 Leather amount",
+          "+100% Global learning factor",
+          "+100.00% Negotiation ability",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+100% Hunting stealth",
+          "+1.0 Cooking speed",
+          "+100% Butchery speed",
+          "+100% Butchery efficiency",
+          "+100% Drug cooking speed",
+          "+100% Smelting speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+100% Psychic sensitivity",
+          "+100.00% Train animal chance",
+          "+100.00% Tame animal chance",
+          "+100% Smoothing speed",
+          "+100% Animal gather speed",
+          "+100% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A non-feral glowing ghoul, is a decrepit, rotting, zombie-like mutant. Intense and prolonged radiation has ravaged their skin, much of their flesh and in some cases many of their ligaments. It emits a powerful glow capable of growing plants.",
+      "defName": "GlowingGhoul",
+      "enabled": true,
+      "name": "glowing one",
+      "price": 1667
     }
   ]
 }

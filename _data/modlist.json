@@ -158,8 +158,8 @@
   {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "1718190143",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -346,6 +346,12 @@
     "name": "Archotech+ (Continued)",
     "steamId": "2270493883",
     "version": "1.5.2"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Artifacts Expanded (Continued)",
+    "steamId": "3162042049",
+    "version": "1.0.5.0"
   },
   {
     "author": "Zaljerem",
@@ -1539,7 +1545,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.81"
+    "version": "1.5.87"
   },
   {
     "author": "AobaKuma , Bill Doors, Bread Mo and KV4EX",
@@ -1840,5 +1846,173 @@
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "MelonDove and Ancot",
+    "name": "Wolfein Race",
+    "steamId": "3473140562",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.5.8928.40486"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Asimov",
+    "steamId": "3096481956",
+    "version": "1.0.9260.25247"
+  },
+  {
+    "author": "Team Rim-Effect",
+    "name": "Rim-Effect Renegade: Core",
+    "steamId": "3473370247",
+    "version": "1.0.8869.33454"
+  },
+  {
+    "author": "Team Rim-Effect",
+    "name": "Rim-Effect Renegade: N7",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Team Rim-Effect",
+    "name": "Rim-Effect Renegade: Extended Cut",
+    "steamId": "3473382290",
+    "version": "1.0.9251.33955"
+  },
+  {
+    "author": "Team Rim-Effect",
+    "name": "Rim-Effect Renegade: Drell",
+    "steamId": "3473371103",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Team Rim-Effect",
+    "name": "Rim-Effect Renegade: Asari and Reapers",
+    "steamId": "3473370728",
+    "version": "1.0.9259.39612"
+  },
+  {
+    "author": "Edge Crescent",
+    "name": "HousekeeperAssistanceCat",
+    "steamId": "1541620640",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan, RedMattis and Alite ect",
+    "name": "Dark Ages : Beasts and Monsters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Framework",
+    "steamId": "2897160312",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Berry Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NuanKi",
+    "name": "Vehicle Framework: Local Flight Systems",
+    "steamId": "3482176791",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "周末勇士-锟",
+    "name": "The Fire Rises In Rim-Music Channel In Chaos World(music pack)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Expanded Framework (Continued)",
+    "steamId": "3263001145",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "misstall",
+    "name": "Misstall's Foods and Social Drugs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Forsakens (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - The Wasteland Compendium (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - Fallout Races: Playable Supermutant (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - Fallout Races: Playable Ghoul (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Crow",
+    "name": "Dust Bunnies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Build Your Hive (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Advanced Prosthetics (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "James76543",
+    "name": "ActiveResponseTraining (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Absolutely More Cannons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Absolutely More Cannons - No Need Ammo (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "none",
+    "name": "Absolutely More Cannons - Long Range Artillery (Continued)",
+    "steamId": null,
+    "version": null
   }
 ]
