@@ -10963,6 +10963,28 @@
       },
       "defName": "VFEP_WarcasketTrait_Mech",
       "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "By some strange twist of fate, people killed by Timmy die violently. You always see the worst way a person can die.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Bloody Mess (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "TD_BloodyMess",
+      "name": "bloodymess"
     }
   ],
   "races": [
@@ -12536,6 +12558,38 @@
       "enabled": true,
       "name": "Kurin",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+15% Flammability",
+          "+$3500 Market value",
+          "+4.80 Move speed",
+          "-50.0C Min comfortable temperature",
+          "+125.0C Max comfortable temperature",
+          "+0 Leather amount",
+          "+6 Honor value",
+          "+75% Wildness",
+          "+300% Pain shock threshold",
+          "+50% Psychic sensitivity",
+          "+50% Toxic resistance",
+          "+10.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+100.0% Armor - Heat",
+          "+125% Global work speed",
+          "+200% Immunity gain speed",
+          "+0 Meat amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An advanced mechanical entity typically built for servitude in one form or another. While self-aware and of at least human intelligence, their rights around the galaxy are often lacking, leading them to places where laws and rules aren't well established.",
+      "defName": "AutomatonRace",
+      "enabled": true,
+      "name": "AI Persona",
+      "price": 5833
     }
   ]
 }

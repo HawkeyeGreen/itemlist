@@ -22074,6 +22074,72 @@
 		"category": "Automatroid weapon",
 		"defname": "DMS_PKM"
 	},
+	{
+		"abr": "(100mm)oeaf1ap",
+		"price": 52,
+		"category": "100mm shells",
+		"defname": "OneHundredmmShell"
+	},
+	{
+		"abr": "(120mm)tak120mmap",
+		"price": 73,
+		"category": "120mm shells",
+		"defname": "TAKShell"
+	},
+	{
+		"abr": "(122mm)of-462he",
+		"price": 56,
+		"category": "122mm shells",
+		"defname": "GvozdikaShell"
+	},
+	{
+		"abr": "(127mm)12.7cmsprgrhe",
+		"price": 79,
+		"category": "127mm shells",
+		"defname": "TwelveSevenShell"
+	},
+	{
+		"abr": "(127mm)mk.64ap",
+		"price": 82,
+		"category": "127mm shells",
+		"defname": "MarkSixtyFour"
+	},
+	{
+		"abr": "(127mm)type1he",
+		"price": 97,
+		"category": "127mm shells",
+		"defname": "JOnetwentysevenShell"
+	},
+	{
+		"abr": "(150mm)15cmsprgrhe",
+		"price": 123,
+		"category": "150mm shells",
+		"defname": "OneHundredFiftyShell"
+	},
+	{
+		"abr": "(150mm)igr33he",
+		"price": 59,
+		"category": "150mm shells",
+		"defname": "SIGShellHE"
+	},
+	{
+		"abr": "(152mm)of-540he",
+		"price": 96,
+		"category": "152mm shells",
+		"defname": "AkatsiyaShell"
+	},
+	{
+		"abr": "(155mm)m795he",
+		"price": 103,
+		"category": "155mm shells",
+		"defname": "OneFiftyFiveShell"
+	},
+	{
+		"abr": "(203mm)20.3cmsprgrhe",
+		"price": 180,
+		"category": "203mm shells",
+		"defname": "TwentyThreeShellHE"
+	},
 	],
-	"total": 5829
+	"total": 5742
 }

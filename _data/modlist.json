@@ -96,6 +96,12 @@
     "version": "2.7.7366"
   },
   {
+    "author": "Propickelz",
+    "name": "Tinkering Bench and Biohacking Station",
+    "steamId": "3522976063",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Killathon",
     "name": "ABF: Artificial Beings Framework",
     "steamId": "3284097810",
@@ -1227,7 +1233,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.6+9d749348955fedc758fa412928a64d92d0683d2f"
+    "version": "1.7.7+69f6861c0d8e41f9eebdc1668bae450b41a990ab"
   },
   {
     "author": "Zaljerem",
@@ -1434,12 +1440,6 @@
     "version": "1.0.379.0018"
   },
   {
-    "author": "Mehni",
-    "name": "Pick Up And Haul 1.6 Forked",
-    "steamId": "3513718710",
-    "version": "1.0.0+2baabfcf7f728a9287537dbe9221c41ea778d905"
-  },
-  {
     "author": "xrushha and HohenHeizen",
     "name": "Anima Animals Combined (Continued)",
     "steamId": null,
@@ -1486,5 +1486,65 @@
     "name": "Who's Using That?",
     "steamId": "3018919825",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Continued",
+    "steamId": "3526354009",
+    "version": "1.0.0+04a919dbde3e27749069d154d92794a1081d4e08"
+  },
+  {
+    "author": "Neceros",
+    "name": "Ceiling Lights Unofficial 1.4 Update",
+    "steamId": "3163886128",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "kongkim",
+    "name": "Drop Pod Raid Jammer",
+    "steamId": "3527131849",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Bloody Mess (Continued)",
+    "steamId": "3525297107",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Automatons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Archotech Weaponry (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Advanced Electric Stove (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Teemo",
+    "name": "Pick Up And Haul 1.6 Forked",
+    "steamId": "3513718710",
+    "version": "1.0.0+10017b3e458f8b0de8b322af6efe8bfcbcfac39a"
   }
 ]
