@@ -1,5 +1,17 @@
 [
   {
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": "3312959701",
+    "version": "1.0.3.0"
+  },
+  {
+    "author": "yahvk",
+    "name": "Rimworld of Magic & Vehicles Framework Targeting fix",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
@@ -267,7 +279,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.0.0+6a70b1976da3315c41359fb0a7cab1ac98cc7c4c"
+    "version": "1.0.0+bf35b7259c7f669516f2b8d1071181a5cc0e67e7"
   },
   {
     "author": "NuanKi",
@@ -824,14 +836,14 @@
   {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
-    "steamId": "2871933948",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.27"
+    "version": "1.6.34"
   },
   {
     "author": "rabiosus",
@@ -850,6 +862,18 @@
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.4.1"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirRandoo",
@@ -987,7 +1011,7 @@
     "author": "Neronix17",
     "name": "Asimov",
     "steamId": "3096481956",
-    "version": "1.6.9294.31409"
+    "version": "1.6.9334.39690"
   },
   {
     "author": "Team Rim-Effect",
@@ -1090,6 +1114,12 @@
     "name": "Artifacts Expanded (Continued)",
     "steamId": "3162042049",
     "version": "1.0.6.0"
+  },
+  {
+    "author": "Biscuit",
+    "name": "Archotech+ (Continued)",
+    "steamId": "2270493883",
+    "version": "1.6.0"
   },
   {
     "author": "Zaljerem",
@@ -1206,6 +1236,30 @@
     "version": "1.4.0.0"
   },
   {
+    "author": "Adamas",
+    "name": "Hospitality: Vending machines",
+    "steamId": "3014885065",
+    "version": "1.0.0+11cdfec8f8bc977037b885805580bd89c4a5c2c5"
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": "2506046833",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
+    "steamId": "",
+    "version": "1.0.0+7e811f329e0e1da791c71687fb203f76aad4da1d"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Hautarche",
     "name": "Hauts' Added Traits",
     "steamId": "3422847391",
@@ -1221,7 +1275,7 @@
     "author": "Roolo, Owlchemist and dav9670",
     "name": "Giddy-Up 2 Forked",
     "steamId": "3246108162",
-    "version": "1.6+1fbf2c0bf3c874e1a2354375e433ed3898c8cb7c"
+    "version": "1.6+9fbb9bf3de3be6a85c1dfa2d16aa81fc1c7b9865"
   },
   {
     "author": "Mo",
@@ -1233,7 +1287,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.7+69f6861c0d8e41f9eebdc1668bae450b41a990ab"
+    "version": "1.7.9+0151f5406606e95ae9c25c1de98edf594b46c3f9"
   },
   {
     "author": "Zaljerem",
@@ -1251,7 +1305,7 @@
     "author": "Shashlichnik ;p (aka Шашлычник ;р)",
     "name": "Deep And Deeper",
     "steamId": "3509420021",
-    "version": "1.0.0.0"
+    "version": "1.2.1.4"
   },
   {
     "author": "NilchEi",
@@ -1329,7 +1383,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.6.1.0"
+    "version": "1.6.3.3"
   },
   {
     "author": "Kapitan Oczywisty",
@@ -1342,12 +1396,6 @@
     "name": "Alpha Crafts",
     "steamId": "3382446150",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": "2506046833",
-    "version": "1.5.0.3"
   },
   {
     "author": "BadOaks",
@@ -1413,7 +1461,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.9298.28474"
+    "version": "1.0.9337.5269"
   },
   {
     "author": "Sarg Bjornson",
@@ -1454,8 +1502,8 @@
   {
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
-    "steamId": "3526251680",
-    "version": "1.0.0+5ff0edb14e21380285ee9b5cedf72fa37411766e"
+    "steamId": "",
+    "version": "1.0.0+b3791ea0e43fa79958e105c4617d3fc3e9574d8a"
   },
   {
     "author": "Velcroboy",
@@ -1473,7 +1521,7 @@
     "author": "Ushanka",
     "name": "Ushankas Glittertech Expansion",
     "steamId": "3522676478",
-    "version": "0.1.0.0+2b36cd31975c32de304f4011d82adf00b0337e21"
+    "version": "0.1.0.0+ac854b2473db9de9980248226939c145c0da173e"
   },
   {
     "author": "Romyashi",
@@ -1490,8 +1538,8 @@
   {
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
-    "steamId": "3526354009",
-    "version": "1.0.0+04a919dbde3e27749069d154d92794a1081d4e08"
+    "steamId": "",
+    "version": "1.0.0+74b6b732edfc7cef520ada4b56c513b9d802e737"
   },
   {
     "author": "Neceros",
@@ -1546,5 +1594,83 @@
     "name": "Pick Up And Haul 1.6 Forked",
     "steamId": "3513718710",
     "version": "1.0.0+10017b3e458f8b0de8b322af6efe8bfcbcfac39a"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - The Wasteland Compendium (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - Fallout Races: Playable Supermutant (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "FCP - Fallout Races: Playable Ghoul (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Psionic+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Poncho",
+    "name": "Automatic Hydroponics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti",
+    "name": "Archotech Droids (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Blood Animations",
+    "steamId": "3228047321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Yoann",
+    "name": "Encounter Baby Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lambda",
+    "name": "Phasers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alma",
+    "name": "Megumin Psycast",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Albion",
+    "name": "Xenohumans - Gen-spliced Xenos on the Rim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Genes Astartes",
+    "steamId": null,
+    "version": null
   }
 ]
