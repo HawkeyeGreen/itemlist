@@ -3,7 +3,7 @@
     "author": "Zaljerem",
     "name": "JecsLite - A RimWorld of Magic",
     "steamId": "3312959701",
-    "version": "1.0.3.0"
+    "version": "1.0.4.0"
   },
   {
     "author": "yahvk",
@@ -279,7 +279,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.0.0+bf35b7259c7f669516f2b8d1071181a5cc0e67e7"
+    "version": "1.0.0+9d27cca070f122d64020ce89ee855e7445f5935b"
   },
   {
     "author": "NuanKi",
@@ -843,7 +843,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.34"
+    "version": "1.6.42"
   },
   {
     "author": "rabiosus",
@@ -1071,7 +1071,7 @@
     "author": "Mezz, Ogam and Taranchuk",
     "name": "Nanosuit (Continued)",
     "steamId": "2894429906",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Zaljerem",
@@ -1082,8 +1082,8 @@
   {
     "author": "NightmareCorporation",
     "name": "Museums",
-    "steamId": null,
-    "version": null
+    "steamId": "3204176859",
+    "version": "1.0.0+89df6133eec75677057631aa2a29fb9ff26769a2"
   },
   {
     "author": "Romyashi",
@@ -1287,7 +1287,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.9+0151f5406606e95ae9c25c1de98edf594b46c3f9"
+    "version": "1.7.10+a697e05eae98b48aa1504eddffa1f623df4add7d"
   },
   {
     "author": "Zaljerem",
@@ -1305,7 +1305,7 @@
     "author": "Shashlichnik ;p (aka Шашлычник ;р)",
     "name": "Deep And Deeper",
     "steamId": "3509420021",
-    "version": "1.2.1.4"
+    "version": "1.2.1.7"
   },
   {
     "author": "NilchEi",
@@ -1503,7 +1503,7 @@
     "author": "Uuugggg",
     "name": "Smart Medicine - Continued",
     "steamId": "",
-    "version": "1.0.0+b3791ea0e43fa79958e105c4617d3fc3e9574d8a"
+    "version": "1.0.0+bedde978b7e562e73e82dc636f53ffea486811b0"
   },
   {
     "author": "Velcroboy",
@@ -1521,7 +1521,7 @@
     "author": "Ushanka",
     "name": "Ushankas Glittertech Expansion",
     "steamId": "3522676478",
-    "version": "0.1.0.0+ac854b2473db9de9980248226939c145c0da173e"
+    "version": "0.1.0.0+27bcae9f027728579be68617918194335893d4e2"
   },
   {
     "author": "Romyashi",
@@ -1539,7 +1539,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "",
-    "version": "1.0.0+74b6b732edfc7cef520ada4b56c513b9d802e737"
+    "version": "1.0.0+4b8e6850ec15a644d80aa95887387ebb8ea0918a"
   },
   {
     "author": "Neceros",
@@ -1622,8 +1622,8 @@
   {
     "author": "Poncho",
     "name": "Automatic Hydroponics",
-    "steamId": null,
-    "version": null
+    "steamId": "3528490718",
+    "version": "1.0.0.0"
   },
   {
     "author": "Seti",
@@ -1672,5 +1672,95 @@
     "name": "Genes Astartes",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Crioware",
+    "name": "Awoolf updated",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Romyashi",
+    "name": "Anima Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Exosuit Framework",
+    "steamId": "3352894993",
+    "version": "1.0.0+79d2d602e6fe2beabb84db53ec3ee5429f70dc0e"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Fox Squirrel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rah",
+    "name": "RBSE",
+    "steamId": "850429707",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - Motorized",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - MobileDragoon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Asiimoves",
+    "name": "The Dead Man's Switch - Module MechWeapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Rimworld: Spartan Foundry (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign",
+    "name": "Rimfairies (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Cybranian - Mechanoid Hediffs",
+    "steamId": "2987238746",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.6.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Cybranian - Events",
+    "steamId": "2599784515",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Advanced Prosthetics (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MARK_E(liquid) and AzzyH",
+    "name": "[SRC]Miho,Star Ring Corporation",
+    "steamId": "3534748687",
+    "version": "1.0.0.0"
   }
 ]
