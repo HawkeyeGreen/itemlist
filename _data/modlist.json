@@ -6,6 +6,12 @@
     "version": "3.0.1.0"
   },
   {
+    "author": "Neronix17",
+    "name": "Asimov",
+    "steamId": "3096481956",
+    "version": "1.6.9702.29935"
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
@@ -15,7 +21,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+d3b4d4109432fbf0717db9dcbf840a18e9f36f77"
+    "version": "1.0.0+b0230dd798a415952eb8463cfe935e91969e860c"
   },
   {
     "author": "Smash Phil",
@@ -216,12 +222,6 @@
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Asimov",
-    "steamId": "3096481956",
-    "version": "1.6.9543.40015"
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Autocleaner",
     "steamId": "3515547338",
@@ -249,7 +249,7 @@
     "author": "Sam Hunt",
     "name": "Better Traders Guild",
     "steamId": "3684587591",
-    "version": "1.3.1"
+    "version": "1.3.3"
   },
   {
     "author": "The Biomes Mod Team",
@@ -714,6 +714,12 @@
     "version": null
   },
   {
+    "author": "Local mod",
+    "name": "Lovly Animal Cuddling",
+    "steamId": "3823442009",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Samael Gray",
     "name": "Mechs and Animals for NPC Factions",
     "steamId": null,
@@ -747,7 +753,7 @@
     "author": "Haplo",
     "name": "Misc. Training (no Task)",
     "steamId": "2779572925",
-    "version": "1.6.6"
+    "version": "1.7.2"
   },
   {
     "author": "misstall",
@@ -1029,7 +1035,13 @@
     "author": "Indeed",
     "name": "Stack XXL",
     "steamId": "826366050",
-    "version": "1.7.0.2"
+    "version": "1.7.0.3"
+  },
+  {
+    "author": "Nuff",
+    "name": "The Secret of Anima - Core",
+    "steamId": "3705373372",
+    "version": "1.0.0.0"
   },
   {
     "author": "Imoja",
@@ -1072,6 +1084,12 @@
     "name": "Turrets For All Post-Medieval Tech Levels",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Lee4733",
+    "name": "Tyranid!",
+    "steamId": "3829426180",
+    "version": "1.0.0.0"
   },
   {
     "author": "Ushanka",
@@ -1557,7 +1575,7 @@
     "author": "totobrother",
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
-    "version": "1.6.2"
+    "version": "1.7.0"
   },
   {
     "author": "Argón",
@@ -1784,6 +1802,18 @@
   {
     "author": "IcyCheeseCake",
     "name": "Taste of Vanilla - Bean Turrets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nuff",
+    "name": "The Secret of Anima - Arsenal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nuff",
+    "name": "The Secret of Anima - Cairns and Totems",
     "steamId": null,
     "version": null
   },
@@ -2034,16 +2064,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "死の毒",
+    "author": "HaiLuan",
     "name": "RIMSPARTAN-II Augmentation Procedures(边缘斯巴达二期强化手术)",
     "steamId": "3814544293",
-    "version": "0.6+b889de82f17149b96fbe7409bb40d3436fe00c88"
+    "version": "0.7+b889de82f17149b96fbe7409bb40d3436fe00c88"
   },
   {
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.6.9701.33495"
+    "version": "1.6.9712.36675"
+  },
+  {
+    "author": "Nuff",
+    "name": "The Secret of Anima - Rituals",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "swemoney",
@@ -2178,6 +2214,12 @@
     "version": null
   },
   {
+    "author": "Local mod",
+    "name": "Wall-Mounted Function Furniture",
+    "steamId": "3807382130",
+    "version": "1.2.0.0"
+  },
+  {
     "author": "Albion",
     "name": "Xenohumans - Gen-spliced Xenos on the Rim",
     "steamId": null,
@@ -2295,7 +2337,7 @@
     "author": "Neronix17",
     "name": "Outer Rim - Core",
     "steamId": "2919227155",
-    "version": "1.6.9306.32064"
+    "version": "1.6.9420.41780"
   },
   {
     "author": "Neronix17",
@@ -2308,6 +2350,12 @@
     "name": "Party Crashers",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: Boiling",
+    "steamId": "2981924439",
+    "version": "1.0.0.0"
   },
   {
     "author": "Team Rim-Effect",
@@ -2475,7 +2523,7 @@
     "author": "Team Rim-Effect",
     "name": "Rim-Effect Renegade: Asari and Reapers",
     "steamId": "3473370728",
-    "version": "1.6.9319.33483"
+    "version": "1.6.9365.7461"
   },
   {
     "author": "Team Rim-Effect",
@@ -2688,7 +2736,7 @@
     "version": null
   },
   {
-    "author": "Jecrell",
+    "author": "Zaljerem",
     "name": "Call of Cthulhu - Cosmic Horrors (Continued)",
     "steamId": "3615542371",
     "version": "0.0.0.0"
