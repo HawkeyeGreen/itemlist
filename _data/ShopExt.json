@@ -1099,12 +1099,16 @@
       "removePrice": 0,
       "degree": 0,
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
-      "stats": [],
+      "stats": [
+        "+15% rank learning multiplier"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+15% rank learning multiplier"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -63685,6 +63689,106 @@
       },
       "defName": "OuterRim_Twitterer",
       "name": "twitterer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy used to function as a field medic. he has learned how to quickly apply first aid to fallen allies, sometimes too fast.",
+      "stats": [
+        "+50% medical tend speed",
+        "-10% medical tend quality"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+50% medical tend speed",
+          "-10% medical tend quality"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimDark 40k - Mankinds Finest",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_FieldMedic",
+      "name": "fieldmedic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a trained surgeon. he has undergone training in the fine arts of cutting people up and stiching them back together, hopefully fixing stuff that needed it midst the cutting.",
+      "stats": [
+        "+40% medical operation speed",
+        "+15% medical surgery success chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+40% medical operation speed",
+          "+15% medical surgery success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimDark 40k - Mankinds Finest",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_Surgeon",
+      "name": "surgeon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a serf. he lives to serve their Space Marine masters.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimDark 40k - Mankinds Finest",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_Serf",
+      "name": "serf"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "\n\t\t\t\t\tTimmy has been reduced to a lobotomized cybernetic thrall, leaving only conditioned obedience and no trace of the person he once was.\n\t\t\t\t",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Segmentum - Servitors",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Seg_Servitors_Servitor",
+      "name": "servitor"
     }
   ],
   "races": [

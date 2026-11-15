@@ -21,7 +21,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+b0230dd798a415952eb8463cfe935e91969e860c"
+    "version": "1.0.0+679bcc75d4d5c09edd0a0f44147ad3b108bee837"
   },
   {
     "author": "Smash Phil",
@@ -39,7 +39,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9780.27044"
+    "version": "1.0.0+6818e9bf2f751aa31d231c80faa7014c41f40f43"
   },
   {
     "author": "AobaKuma",
@@ -57,7 +57,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.9.4"
+    "version": "1.9.5"
   },
   {
     "author": "UnlimitedHugs",
@@ -94,6 +94,12 @@
     "name": "[DF] Omni Bot",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Local mod",
+    "name": "[DG]Lovly Animal Cuddling",
+    "steamId": "3823442009",
+    "version": "0.0.0.0"
   },
   {
     "author": "Ravvy",
@@ -145,6 +151,12 @@
   },
   {
     "author": "Sarg Bjornson",
+    "name": "Alpha Armoury",
+    "steamId": "3622294464",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
     "name": "Alpha Books",
     "steamId": "3403180654",
     "version": "1.0.0.0"
@@ -192,10 +204,16 @@
     "version": null
   },
   {
+    "author": "Kennro and Ovross",
+    "name": "Anomaly Mutations Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Biscuit",
     "name": "Archotech+ (Continued)",
     "steamId": "2270493883",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "author": "HaiLuan",
@@ -226,6 +244,12 @@
     "name": "Autocleaner",
     "steamId": "3515547338",
     "version": "1.0.379.0018"
+  },
+  {
+    "author": "ferny",
+    "name": "Back For Vengeance",
+    "steamId": "3761967749",
+    "version": "1.0.0.0"
   },
   {
     "author": "Bean",
@@ -285,7 +309,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.4.7.0"
+    "version": "3.4.9.0"
   },
   {
     "author": "Zaljerem",
@@ -304,6 +328,12 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.6.3.3"
+  },
+  {
+    "author": "ShunTheWitch",
+    "name": "Coventech flight and expansion Core",
+    "steamId": "3047564391",
+    "version": "0.0.0.0"
   },
   {
     "author": "DimonSever000",
@@ -567,7 +597,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.13.1+84b201bbe74e2434b5c159e83a6c28cae42d410f"
+    "version": "1.8.0+0d9bf1ad0b7b5e74f07a918b6b380c4ac5cba631"
   },
   {
     "author": "FlatronWS",
@@ -660,6 +690,12 @@
     "version": null
   },
   {
+    "author": "vopaga",
+    "name": "Hyperdrive",
+    "steamId": "3741577108",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Keshash",
     "name": "Injury Texture Variety",
     "steamId": null,
@@ -708,16 +744,16 @@
     "version": "2.5.0.1"
   },
   {
+    "author": "Big Dorbo",
+    "name": "LiquidSFX",
+    "steamId": "3758773902",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "GoGaTio",
     "name": "Lost Factory Mechanoids",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Local mod",
-    "name": "Lovly Animal Cuddling",
-    "steamId": "3823442009",
-    "version": "0.0.0.0"
   },
   {
     "author": "Samael Gray",
@@ -753,7 +789,7 @@
     "author": "Haplo",
     "name": "Misc. Training (no Task)",
     "steamId": "2779572925",
-    "version": "1.7.2"
+    "version": "1.7.3"
   },
   {
     "author": "misstall",
@@ -819,7 +855,7 @@
     "author": "Mezz, Ogam and Taranchuk",
     "name": "Nanosuit (Continued)",
     "steamId": "2894429906",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   {
     "author": "sindre0830",
@@ -838,6 +874,12 @@
     "name": "Orbital Book Merchants",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ChaoticEnrico",
+    "name": "OST Unlocker",
+    "steamId": "3220433929",
+    "version": "1.0.0"
   },
   {
     "author": "KLAVY",
@@ -876,6 +918,12 @@
     "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
+    "author": "Big Dorbo",
+    "name": "Project Arcos",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "mongrong",
     "name": "Puella Magi Madoka Magica",
     "steamId": null,
@@ -886,6 +934,12 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
+  },
+  {
+    "author": "choco",
+    "name": "Quiet Wonders",
+    "steamId": "3822357701",
+    "version": "1.1.5"
   },
   {
     "author": "DimonSever000",
@@ -910,6 +964,12 @@
     "name": "Relations Tab (Continued)",
     "steamId": "3575145343",
     "version": "1.0.0+568f0c666e47583efde03cfd89b1530df11b5515"
+  },
+  {
+    "author": "Firework",
+    "name": "Repeatable Technologies",
+    "steamId": "3837808238",
+    "version": "0.0.0.0"
   },
   {
     "author": "Spuffy",
@@ -942,6 +1002,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Phonicmas",
+    "name": "RimDark 40k - Framework",
+    "steamId": "3267464767",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
@@ -956,8 +1022,8 @@
   {
     "author": "JerryTheCultist",
     "name": "Rimframe: Vatgrown Hate",
-    "steamId": "3431220821",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aqued, LiLMaDDonuT and Hubertdragon",
@@ -996,6 +1062,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "remi",
+    "name": "Seamless Pockets",
+    "steamId": "3837063832",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CYCO",
     "name": "Segmented Creatures Framework",
     "steamId": null,
@@ -1012,6 +1084,12 @@
     "name": "Sky Islands",
     "steamId": "3550602990",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -1038,6 +1116,12 @@
     "version": "1.7.0.3"
   },
   {
+    "author": "Firework",
+    "name": "Supply Shelf",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nuff",
     "name": "The Secret of Anima - Core",
     "steamId": "3705373372",
@@ -1054,6 +1138,12 @@
     "name": "Therapy (Continued)",
     "steamId": "3509488682",
     "version": "1.5.0.3"
+  },
+  {
+    "author": "Neko",
+    "name": "Thunderstorm",
+    "steamId": "3278460897",
+    "version": "0.0.0.0"
   },
   {
     "author": "Lizalka",
@@ -1160,6 +1250,12 @@
   {
     "author": "Kikohi and Oskar Potocki",
     "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
     "steamId": null,
     "version": null
   },
@@ -1308,6 +1404,12 @@
     "version": "1.0.3"
   },
   {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Helixien Gas Expanded",
     "steamId": "2877699803",
@@ -1360,12 +1462,6 @@
     "name": "Vanilla Nutrient Paste Expanded",
     "steamId": "2920385763",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -1794,6 +1890,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
     "author": "Lee",
     "name": "Star Wars : The Force Standalone",
     "steamId": "3557220601",
@@ -1816,6 +1918,12 @@
     "name": "The Secret of Anima - Cairns and Totems",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Trauma and Integrity",
+    "steamId": "3760716715",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -1902,10 +2010,22 @@
     "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
   },
   {
+    "author": "godsfathermixtape",
+    "name": "Worksites Expanded",
+    "steamId": "3687071198",
+    "version": "1.0.0"
+  },
+  {
     "author": "大鳥",
     "name": "虫娘 Insect Girls",
     "steamId": "2451340446",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Local mod",
+    "name": "[DG]Wall Mounted Function Furniture",
+    "steamId": "3807382130",
+    "version": "1.2.0.0"
   },
   {
     "author": "Killathon",
@@ -2058,6 +2178,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Phonicmas, Mewn Goddess, Grim Cheese and UnfortunateДруг",
+    "name": "RimDark 40k - Mankinds Finest",
+    "steamId": "3505068525",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Rimsential - Spaceports (Continued)",
     "steamId": "3225120958",
@@ -2067,7 +2193,7 @@
     "author": "HaiLuan",
     "name": "RIMSPARTAN-II Augmentation Procedures(边缘斯巴达二期强化手术)",
     "steamId": "3814544293",
-    "version": "0.7+b889de82f17149b96fbe7409bb40d3436fe00c88"
+    "version": "0.8"
   },
   {
     "author": "Neronix17",
@@ -2167,12 +2293,6 @@
   },
   {
     "author": "Sentinel",
-    "name": "VPE - Anima",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sentinel",
     "name": "VPE - Arknights",
     "steamId": null,
     "version": null
@@ -2214,12 +2334,6 @@
     "version": null
   },
   {
-    "author": "Local mod",
-    "name": "Wall-Mounted Function Furniture",
-    "steamId": "3807382130",
-    "version": "1.2.0.0"
-  },
-  {
     "author": "Albion",
     "name": "Xenohumans - Gen-spliced Xenos on the Rim",
     "steamId": null,
@@ -2248,6 +2362,12 @@
     "name": "Alpha Bees",
     "steamId": "1558161673",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Abomination, Anndra, Artemiish, Bizuter, BlackMarket420, Eridanus, Forrr, Gerrymon, JerryTheCultist, Razzberry, ShunTheWitch, The Suspect and TwoLargeGayMen",
+    "name": "Astronomican Archives - Sabbat's Blight",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "The Biomes Mod Team",
@@ -2364,6 +2484,24 @@
     "version": "1.6.9360.40273"
   },
   {
+    "author": "Phonicmas, Mewn Goddess and Grim Cheese",
+    "name": "RimDark 40k - Black Templars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phonicmas and Team RimDark",
+    "name": "RimDark 40k - Mankinds Finest: Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "REDACTED, Abomination, Anndra, T H E S U S P E C T, TwoLargeGayMen and Phonicmas",
+    "name": "Segmentum - Core",
+    "steamId": "3654515542",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Small Hot Spring (Continued)",
     "steamId": "3171013935",
@@ -2396,6 +2534,12 @@
   {
     "author": "Oskar Potocki, Luizi and xrushha",
     "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sentinel",
+    "name": "VPE - Anima",
     "steamId": null,
     "version": null
   },
@@ -2478,9 +2622,21 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Gerrymon",
+    "name": "Gerrymon's Upscaled Vanilla Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hautarche",
     "name": "Hauts' Framework",
     "steamId": "3422815711",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Phonicmas, Grim Cheese and Mewn Goddess",
+    "name": "NyanDark 40k - Space Maids",
+    "steamId": "3697034827",
     "version": "1.0.0.0"
   },
   {
@@ -2542,6 +2698,18 @@
     "name": "Rim-Effect Renegade: N7",
     "steamId": "3473371554",
     "version": "1.6.9322.33811"
+  },
+  {
+    "author": "REDACTED, A Random Cogboy, Abomination, Anndra, Eridanus, T H E S U S P E C T, TwoLargeGayMen, Phonicmas, JerryTheCultist, ShunTheWitch, Gerrymon and Sandwish",
+    "name": "Segmentum - Children of the Omnissiah",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "REDACTED, Abomination, Anndra, T H E S U S P E C T, TwoLargeGayMen, Phonicmas, JerryTheCultist and ShunTheWitch",
+    "name": "Segmentum - Officio Assassinorum",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "j'mangus dubarb D.D.S",
@@ -2640,6 +2808,18 @@
     "version": null
   },
   {
+    "author": "REDACTED, Abomination, Anndra, BoMarley, TwoLargeGayMen and Phonicmas",
+    "name": "Segmentum - Servitors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "REDACTED, Abomination, Anndra, T H E S U S P E C T, TwoLargeGayMen, Phonicmas and ShunTheWitch",
+    "name": "Segmentum - Warrant of the Void",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Big Dorbo",
     "name": "Shambler Deviants",
     "steamId": "3799916963",
@@ -2706,16 +2886,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AlleyBalley and Dog Shelby",
-    "name": "[AB] Xenotype: Yautja",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Exploration Loot",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Character Development",
+    "steamId": "3770112044",
+    "version": "1.0.0.0"
   },
   {
     "author": "guy762",
@@ -2758,6 +2938,12 @@
     "name": "VVE Deconstructable Vehicles Junk - Randomized Loot",
     "steamId": "3815528891",
     "version": "1.0.0"
+  },
+  {
+    "author": "AlleyBalley and Dog Shelby",
+    "name": "[AB] Xenotype: Yautja",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Zaljerem",
