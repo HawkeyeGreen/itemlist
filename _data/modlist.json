@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "3.0.1.0"
+    "version": "3.0.4.0"
   },
   {
     "author": "Neronix17",
@@ -70,6 +70,12 @@
     "name": "[1.6/1.7] Clean Pathfinding 2 (Fork)",
     "steamId": "3695419309",
     "version": "1.6+92ff9de4a1ab98af0285f3fd9c26d9ab8ebc9a2e"
+  },
+  {
+    "author": "BlackMarket420",
+    "name": "[1.6] Hunterphage Xenotype (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Helixien",
@@ -206,8 +212,8 @@
   {
     "author": "Kennro and Ovross",
     "name": "Anomaly Mutations Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "3836076384",
+    "version": "1.0.0+8717417832679e1cee1a5e6ee2c7751f4ed17262"
   },
   {
     "author": "Biscuit",
@@ -273,7 +279,7 @@
     "author": "Sam Hunt",
     "name": "Better Traders Guild",
     "steamId": "3684587591",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   {
     "author": "The Biomes Mod Team",
@@ -684,12 +690,6 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "BlackMarket420",
-    "name": "Hunterphage Xenotype (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "vopaga",
     "name": "Hyperdrive",
     "steamId": "3741577108",
@@ -816,16 +816,16 @@
     "version": "1.6.8"
   },
   {
-    "author": "Kenzej",
+    "author": "L1",
     "name": "MultiConstruction",
     "steamId": "3562530209",
-    "version": "0.0.0.0"
+    "version": "2.1.0+7fe58ca61c01cefd42497ca03195feb8d48eec12"
   },
   {
-    "author": "Kenzej",
+    "author": "L1",
     "name": "MultiTending",
     "steamId": "3561607586",
-    "version": "1.0.0"
+    "version": "2.1.0+8fd24ddfb7a10b034412da3b134ddbc094f549c3"
   },
   {
     "author": "Zaljerem",
@@ -939,7 +939,7 @@
     "author": "choco",
     "name": "Quiet Wonders",
     "steamId": "3822357701",
-    "version": "1.1.5"
+    "version": "1.1.8+5db2fad2c4e3fd1e647a98fa96be57e27540fab5"
   },
   {
     "author": "DimonSever000",
@@ -1032,6 +1032,18 @@
     "version": null
   },
   {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Rimworld: Spartan Foundry (Continued)",
     "steamId": null,
@@ -1118,8 +1130,8 @@
   {
     "author": "Firework",
     "name": "Supply Shelf",
-    "steamId": null,
-    "version": null
+    "steamId": "3837808326",
+    "version": "0.0.0.0"
   },
   {
     "author": "Nuff",
@@ -1462,6 +1474,12 @@
     "name": "Vanilla Nutrient Paste Expanded",
     "steamId": "2920385763",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -1900,6 +1918,12 @@
     "name": "Star Wars : The Force Standalone",
     "steamId": "3557220601",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "bazoka81",
+    "name": "Star Wars Dub's Hygiene Stuff",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "IcyCheeseCake",
@@ -2397,7 +2421,7 @@
     "author": "Fumblesneeze",
     "name": "Hospitality + Ideology Patch",
     "steamId": "3789536584",
-    "version": "1.0.0+713be001174317d7d7ef9682c1787f78b62418de"
+    "version": "1.0.0+b1007b9b8104793fe6181b544965230f3ebc7071"
   },
   {
     "author": "gatoviejo",
@@ -2886,6 +2910,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "AlleyBalley and Dog Shelby",
+    "name": "[AB] Xenotype: Yautja",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Exploration Loot",
     "steamId": null,
@@ -2938,12 +2968,6 @@
     "name": "VVE Deconstructable Vehicles Junk - Randomized Loot",
     "steamId": "3815528891",
     "version": "1.0.0"
-  },
-  {
-    "author": "AlleyBalley and Dog Shelby",
-    "name": "[AB] Xenotype: Yautja",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Zaljerem",

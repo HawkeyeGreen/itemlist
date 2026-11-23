@@ -64239,7 +64239,7 @@
 	{
 		"abr": "scareraser",
 		"price": 833,
-		"category": "Drugs",
+		"category": "Manufactured",
 		"defname": "ScarEraser"
 	},
 	{
@@ -79115,7 +79115,325 @@
 		"price": 5600,
 		"category": "Officio Assassinorum gear",
 		"defname": "Seg_OA_Apparel_VindicareSuit"
+	},
+	{
+		"abr": "anti-materielrifle",
+		"price": 1225,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSAMRifle"
+	},
+	{
+		"abr": "assaultcharger",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AssaultCharger"
+	},
+	{
+		"abr": "automaticrifle",
+		"price": 767,
+		"category": "Ranged weapons",
+		"defname": "Gun_AutomaticRifle"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBattleRifle"
+	},
+	{
+		"abr": "beamcarbine",
+		"price": 1692,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamCarbine"
+	},
+	{
+		"abr": "beamjezail",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamSniper"
+	},
+	{
+		"abr": "beampistol",
+		"price": 1042,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamPistol"
+	},
+	{
+		"abr": "beamscattergun",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamShotgun"
+	},
+	{
+		"abr": "blowgun",
+		"price": 170,
+		"category": "Ranged weapons",
+		"defname": "Gun_Blowgun"
+	},
+	{
+		"abr": "burstcharger",
+		"price": 2125,
+		"category": "Ranged weapons",
+		"defname": "Gun_BurstCharger"
+	},
+	{
+		"abr": "cannon",
+		"price": 1058,
+		"category": "Security",
+		"defname": "Turret_RSCannon"
+	},
+	{
+		"abr": "carbine",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSCarbine"
+	},
+	{
+		"abr": "chargedriver",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeDriver"
+	},
+	{
+		"abr": "chargeinfantryrifle",
+		"price": 1842,
+		"category": "Ranged weapons",
+		"defname": "Gun_CFR"
+	},
+	{
+		"abr": "chargesidearm",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeSidearm"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 350,
+		"category": "Ranged weapons",
+		"defname": "Bow_Compound"
+	},
+	{
+		"abr": "decoydummy",
+		"price": 282,
+		"category": "Security",
+		"defname": "RSDummy"
+	},
+	{
+		"abr": "dumbfirebarragegun",
+		"price": 2458,
+		"category": "Ranged weapons",
+		"defname": "Gun_DumbfireBarragegun"
+	},
+	{
+		"abr": "dumbfirelance",
+		"price": 2475,
+		"category": "Ranged weapons",
+		"defname": "Gun_DumbfireLance"
+	},
+	{
+		"abr": "dumbfirepistol",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "Gun_DumbfirePistol"
+	},
+	{
+		"abr": "dumbfirerifle",
+		"price": 1733,
+		"category": "Ranged weapons",
+		"defname": "Gun_DumbfireRifle"
+	},
+	{
+		"abr": "empdischarger",
+		"price": 1883,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMPRifle"
+	},
+	{
+		"abr": "emplobberturret",
+		"price": 592,
+		"category": "Security",
+		"defname": "Turret_EMPLobber"
+	},
+	{
+		"abr": "fragcatrifle",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "Gun_FragcatRifle"
+	},
+	{
+		"abr": "frontierrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_FR"
+	},
+	{
+		"abr": "fuelbarrel",
+		"price": 188,
+		"category": "Security",
+		"defname": "FuelBarrel"
+	},
+	{
+		"abr": "heatcap",
+		"price": 320,
+		"category": "Hygiene",
+		"defname": "ucp_heatcap"
+	},
+	{
+		"abr": "heavyflakarmor",
+		"price": 1333,
+		"category": "Armor",
+		"defname": "Apparel_ProtectiveGear"
+	},
+	{
+		"abr": "heavyflakhelmet",
+		"price": 650,
+		"category": "Headgear",
+		"defname": "Apparel_ProtectiveHelmet"
+	},
+	{
+		"abr": "heavypistol",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Gun_PistolHeavyRevolver"
+	},
+	{
+		"abr": "incendiarylobberturret",
+		"price": 658,
+		"category": "Security",
+		"defname": "Turret_FireLobber"
+	},
+	{
+		"abr": "industrialexo-frame",
+		"price": 1675,
+		"category": "Apparel",
+		"defname": "Apparel_Exoframe"
+	},
+	{
+		"abr": "marksmanrifle",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "Gun_MarksmanRifle"
+	},
+	{
+		"abr": "militiarifle",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "Gun_MilitiaRifle"
+	},
+	{
+		"abr": "multi-linksupplyfridge",
+		"price": 2875,
+		"category": "Furniture",
+		"defname": "DI_MultiFreezerSupplyShelf"
+	},
+	{
+		"abr": "repeatingrifle",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "Gun_Repeater"
+	},
+	{
+		"abr": "scattercharger",
+		"price": 1658,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterCharger"
+	},
+	{
+		"abr": "shooterturret",
+		"price": 492,
+		"category": "Security",
+		"defname": "Turret_MiniShooter"
+	},
+	{
+		"abr": "sluggerturret",
+		"price": 492,
+		"category": "Security",
+		"defname": "Turret_MiniSlugger"
+	},
+	{
+		"abr": "smartmine",
+		"price": 15,
+		"category": "Security",
+		"defname": "Turret_Smartmine"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 358,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeSmoke"
+	},
+	{
+		"abr": "supplyfridge",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "DI_FreezerSupplyShelf"
+	},
+	{
+		"abr": "tacticalhelmet",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "Apparel_TacHelmet"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 717,
+		"category": "Armor",
+		"defname": "Apparel_TacVest"
+	},
+	{
+		"abr": "throwingaxes",
+		"price": 342,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingAxes"
+	},
+	{
+		"abr": "throwingclubs",
+		"price": 109,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingClubs"
+	},
+	{
+		"abr": "thumper",
+		"price": 1075,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSThumper"
+	},
+	{
+		"abr": "thumpercatcarbine",
+		"price": 1383,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThumpercatCarbine"
+	},
+	{
+		"abr": "thundercatrifle",
+		"price": 1375,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThundercatRifle"
+	},
+	{
+		"abr": "uniquebattlerifle",
+		"price": 917,
+		"category": "Unique weapons",
+		"defname": "Gun_RSBattleRifle_Unique"
+	},
+	{
+		"abr": "uniquecarbine",
+		"price": 783,
+		"category": "Unique weapons",
+		"defname": "Gun_RSCarbine_Unique"
+	},
+	{
+		"abr": "uniquegrazercarbine",
+		"price": 1692,
+		"category": "Unique weapons",
+		"defname": "Gun_RSBeamCarbine_Unique"
+	},
+	{
+		"abr": "uniqueheavypistol",
+		"price": 375,
+		"category": "Unique weapons",
+		"defname": "Gun_PistolHeavyRevolver_Unique"
 	}
 	],
-	"total": 13213
+	"total": 13266
 }
